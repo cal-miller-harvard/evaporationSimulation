@@ -1,0 +1,39 @@
+Simulation name: Rb Cross Dimensional Thermalization
+Simulation started: 2020/05/21 at 13:42:02
+
+########### Simulation Parameters ###########
+
+T_MAX: 1000.0 ms
+TAU: 0.002 ms
+WRITE_TIME: 0.1 ms
+EQUILIBRATION: 0.0 ms
+N: 1000
+NONEQUIL: 2.0
+
+BOUNDARY: 250.0 um
+COLL_CUTOFF: 50.0 nm
+
+########### Particle Parameters ###########
+
+MASS: 87.0 AMU
+TEMP: 200.0 nK
+
+INELASTIC_COLL: True
+ELASTICCOEFF: [0.068]
+REACTIVECOEFF: [0.00068]
+COLL_TYPE: SWAVE
+
+
+########### Trap Parameters ###########
+
+TRAP: HARMONIC
+DEPTH: 20.0 uK
+FREQ: 35.0 Hz
+A: 0.0
+B: 0.0
+EVAP_RAMP: 20.0 ms
+
+#############################################
+
+Simulation completed: 2020/05/21 at 13:44:52
+Runtime: 169.859557152 s
