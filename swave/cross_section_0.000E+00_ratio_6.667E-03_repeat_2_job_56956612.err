@@ -1,0 +1,2 @@
+/n/home03/calmiller/evaporationSimulation/function_library.py:335: RuntimeWarning: invalid value encountered in double_scalars
+  inelasticProbability = reactiveCrossSection / (reactiveCrossSection + elasticCrossSection)

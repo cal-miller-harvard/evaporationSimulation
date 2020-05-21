@@ -1,0 +1,22 @@
+
+Name: Rb Cross Dimensional Thermalization
+
+TMax: 1000
+
+N: 1000
+M: 87
+T: 200
+tau: 0.002
+
+Inelastic: True
+ElasticCoeff: 0.001500
+ReactiveCoeff: 0.000015
+Collision: swave
+
+Trap: harmonic
+
+Bound: 250
+
+NonEquilibrium: 2.0
+
+Depth: 20

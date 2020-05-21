@@ -6,7 +6,7 @@ import os
 # Parameters
 elastic_cross_sections = np.linspace(0.0,0.005,11)
 elastic_inelastic_ratios = [0.0, 1.0/50, 1.0/100, 1.0/150, 1.0/200, 1.0/250]
-repeats = 1
+repeats = 10
 path = "swave"
 template = """
 Name: Rb Cross Dimensional Thermalization
@@ -43,7 +43,7 @@ slurm_template = """#!/bin/bash
 # module load Anaconda/5.0.1-fasrc02
 # module list
 
-python2.7 --input {} --output {}
+python2.7 main.py --input {} --output {}
 
 """
 
