@@ -1,5 +1,7 @@
 import re
 import numpy as np
+import matplotlib
+matplotlib.use('Agg')
 from matplotlib import pyplot as plt
 
 path = "swave/analysis.txt"
@@ -31,4 +33,6 @@ for ratio in np.unique(pts[:,1]):
     plt.xlabel("Cross section (um)")
     plt.ylabel("Collision to thermalize")
 plt.legend(title="elastic to inelastic ratio",loc='upper left')
-plt.show()
+plt.xlim(0,0.0061)
+# plt.show()
+plt.savefig("swave.pdf")
