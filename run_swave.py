@@ -62,8 +62,9 @@ for elastic_cross_section in elastic_cross_sections:
             if os.path.exists(f_out):
                 os.remove(f_out)
             f_slurm  = fbase+"_repeat_{:d}.slurm".format(repeat)
+            f_slurm_log  = fbase+"_repeat_{:d}".format(repeat)
             with open(f_slurm, 'w+') as f:
-                f.write(slurm_template.format(fbase, f_in, f_out))
+                f.write(slurm_template.format(f_slurm_log, f_slurm_log, f_in, f_out))
             procs.append(subprocess.Popen(['sbatch', f_slurm]))
 for proc in procs:
     proc.wait()
