@@ -31,20 +31,39 @@ NonEquilibrium: 2.0
 
 Depth: 20
 """
+slurm_template = """#!/bin/bash
+#SBATCH -n 1 # Number of cores requested
+#SBATCH -t 0-01:00 # Runtime in minutes
+#SBATCH -p shared # Partition to submit to
+#SBATCH --mem-per-cpu 1024 # Memory per cpu in MB (see also ?mem-per-cpu)
+#SBATCH --open-mode=append
+#SBATCH -o {}_job_%j.out # Standard out goes to this file
+#SBATCH -e {}_job_%j.err # Standard err goes to this filehostname
+
+# module load Anaconda/5.0.1-fasrc02
+# module list
+
+python2.7 --input {} --output {}
+
+"""
 
 # Script
 procs = []
 for elastic_cross_section in elastic_cross_sections:
     for elastic_inelastic_ratio in elastic_inelastic_ratios:
-        f_in = "{}/cross_section_{:.3E}_ratio_{:.3E}.in".format(path, elastic_cross_section, elastic_inelastic_ratio)
+        fbase = "{}/cross_section_{:.3E}_ratio_{:.3E}".format(path, elastic_cross_section, elastic_inelastic_ratio)
+        f_in = fbase+".in"
         with open(f_in, 'w+') as f:
             f.write(template.format(
                 "False" if elastic_inelastic_ratio == 0.0 else "True",
                 elastic_cross_section, elastic_inelastic_ratio*elastic_cross_section))
         for repeat in range(repeats):
-            f_out = "{}/cross_section_{:.3E}_ratio_{:.3E}_repeat_{:d}.out".format(path, elastic_cross_section, elastic_inelastic_ratio,repeat)
+            f_out = fbase+"_repeat_{:d}.out".format(repeat)
             if os.path.exists(f_out):
                 os.remove(f_out)
-            procs.append(subprocess.Popen(['python2.7', 'main.py', '--input', f_in, '--output', f_out]))
+            f_slurm  = fbase+"_repeat_{:d}.slurm".format(repeat)
+            with open(f_slurm, 'w+') as f:
+                f.write(slurm_template.format(fbase, f_in, f_out))
+            procs.append(subprocess.Popen(['sbatch', f_slurm]))
 for proc in procs:
     proc.wait()
