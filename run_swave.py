@@ -5,8 +5,8 @@ import os
 
 # Parameters
 elastic_cross_sections = np.linspace(0.0,0.005,11)
-elastic_inelastic_ratios = [0.0, 1/50, 1/100, 1/150, 1/200, 1/250]
-repeats = 10
+elastic_inelastic_ratios = [0.0, 1.0/50, 1.0/100, 1.0/150, 1.0/200, 1.0/250]
+repeats = 1
 path = "swave"
 template = """
 Name: Rb Cross Dimensional Thermalization
@@ -33,6 +33,7 @@ Depth: 20
 """
 
 # Script
+procs = []
 for elastic_cross_section in elastic_cross_sections:
     for elastic_inelastic_ratio in elastic_inelastic_ratios:
         f_in = "{}/cross_section_{:.3E}_ratio_{:.3E}.in".format(path, elastic_cross_section, elastic_inelastic_ratio)
@@ -44,4 +45,6 @@ for elastic_cross_section in elastic_cross_sections:
             f_out = "{}/cross_section_{:.3E}_ratio_{:.3E}_repeat_{:d}.out".format(path, elastic_cross_section, elastic_inelastic_ratio,repeat)
             if os.path.exists(f_out):
                 os.remove(f_out)
-            subprocess.Popen(['python2.7', 'main.py', '--input', f_in, '--output', f_out])
+            procs.append(subprocess.Popen(['python2.7', 'main.py', '--input', f_in, '--output', f_out]))
+for proc in procs:
+    proc.wait()

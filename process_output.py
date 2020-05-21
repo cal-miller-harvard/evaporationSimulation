@@ -10,6 +10,7 @@ parser.add_argument("files", type=str, help="List of file names", nargs='*')
 parser.add_argument("-f", "--fit", type=str, help="Specify exponential [e] or 2-body [2b] fit.", choices=['e', '2b'])
 parser.add_argument("-e", "--exclude", type=float, help="Specify exclusion time in [ms].")
 parser.add_argument("-b", "--bin", type=int, help="Specify the number of points over which to bin.")
+parser.add_argument("-p", "--plot", type=bool, help="Generate plots of the output")
 args = parser.parse_args()
 
 # Constants & Parameters
@@ -50,6 +51,11 @@ if args.bin:
     bin_width = args.bin
 else:
     bin_width = 300
+
+if args.plot:
+    make_plots = args.plot
+else:
+    make_plots = False
 
 figures = [0]*len(files)
 n = 0
@@ -143,67 +149,67 @@ for k in files:
 
     print("Mean Collision Rate: {:.1f}\n".format(np.mean(colRate)))
 
+    if make_plots:
+        figures[n] = plt.figure(figsize=(11.25, 7))
+        plt.subplots_adjust(wspace=0.3, hspace=0.3)
+        ax0 = figures[n].add_subplot(231)
+        ax1 = figures[n].add_subplot(232)
+        ax2 = figures[n].add_subplot(234)
+        ax3 = figures[n].add_subplot(235)
 
-    figures[n] = plt.figure(figsize=(11.25, 7))
-    plt.subplots_adjust(wspace=0.3, hspace=0.3)
-    ax0 = figures[n].add_subplot(231)
-    ax1 = figures[n].add_subplot(232)
-    ax2 = figures[n].add_subplot(234)
-    ax3 = figures[n].add_subplot(235)
+        ax4 = figures[n].add_subplot(233)
+        ax5 = figures[n].add_subplot(236)
 
-    ax4 = figures[n].add_subplot(233)
-    ax5 = figures[n].add_subplot(236)
+        all_axes = [ax0, ax1, ax2, ax3, ax4, ax5]
+        all_ylabels = ['Number', 'Temperature (nK)', r'Density (10$^7$ cm$^{-2}$)', 'log(N)',
+                    'Collisions per Particle', r'Collision Rate per particle (s$^{-1}$)']
+        all_xlabels = ['Time (s)', 'Time (s)', 'Time (s)', 'log(T/nK)', 'Time (s)', 'Time (s)']
+        all_titles = ['',
+                    '',
+                    density_plot_title,
+                    'Slope: {:.2f}'.format(p_psd[0]),
+                    'Collisions',
+                    'Collision Rate']
+        if nonEq:
+            all_titles[1] = "Number of collisions to thermalize: {:.1f}\n".format(min(col2thermX, col2thermY))
+        else:
+            all_titles[1] = r'T$_0$ = {:.1f} nK,  h = {:.1f} nK/s'.format(p_linear_temperature[1], p_linear_temperature[0])
 
-    all_axes = [ax0, ax1, ax2, ax3, ax4, ax5]
-    all_ylabels = ['Number', 'Temperature (nK)', r'Density (10$^7$ cm$^{-2}$)', 'log(N)',
-                   'Collisions per Particle', r'Collision Rate per particle (s$^{-1}$)']
-    all_xlabels = ['Time (s)', 'Time (s)', 'Time (s)', 'log(T/nK)', 'Time (s)', 'Time (s)']
-    all_titles = ['',
-                  '',
-                  density_plot_title,
-                  'Slope: {:.2f}'.format(p_psd[0]),
-                  'Collisions',
-                  'Collision Rate']
-    if nonEq:
-        all_titles[1] = "Number of collisions to thermalize: {:.1f}\n".format(min(col2thermX, col2thermY))
-    else:
-        all_titles[1] = r'T$_0$ = {:.1f} nK,  h = {:.1f} nK/s'.format(p_linear_temperature[1], p_linear_temperature[0])
+        ax0.plot(time, number, '.', markersize=15)
 
-    ax0.plot(time, number, '.', markersize=15)
+        if nonEq:
+            ax1.plot(time, tX, '.b', markersize=15)
+            ax1.plot(time, tY, '.r', markersize=15)
+            ax1.plot(time, Xfit, color='blue')
+            ax1.plot(time, Yfit, color='red')
+            ax1.legend([r'T$_X$', r'T$_Y$'])
+        else:
+            ax1.plot(time, temperature, '.', markersize=15)
+            ax1.plot(time[time > excludeTime], p_linear_temperature[0] * time[time > excludeTime] + p_linear_temperature[1], 'r')
 
-    if nonEq:
-        ax1.plot(time, tX, '.b', markersize=15)
-        ax1.plot(time, tY, '.r', markersize=15)
-        ax1.plot(time, Xfit, color='blue')
-        ax1.plot(time, Yfit, color='red')
-        ax1.legend([r'T$_X$', r'T$_Y$'])
-    else:
-        ax1.plot(time, temperature, '.', markersize=15)
-        ax1.plot(time[time > excludeTime], p_linear_temperature[0] * time[time > excludeTime] + p_linear_temperature[1], 'r')
+        ax2.plot(time, density / 1E7, '.', markersize=15)
+        ax2.plot(time[time > excludeTime], density_fit/1E7, 'r--')
 
-    ax2.plot(time, density / 1E7, '.', markersize=15)
-    ax2.plot(time[time > excludeTime], density_fit/1E7, 'r--')
+        ax3.plot(np.log(temperature), np.log(number), '.', markersize=15)
+        ax3.plot(np.log(temperature[time > excludeTime]), p_psd[1] + p_psd[0] * np.log(temperature[time > excludeTime]), 'r')
 
-    ax3.plot(np.log(temperature), np.log(number), '.', markersize=15)
-    ax3.plot(np.log(temperature[time > excludeTime]), p_psd[1] + p_psd[0] * np.log(temperature[time > excludeTime]), 'r')
+        ax4.plot(time, collisions/number, '.', markersize=15)
+        if nonEq:
+            ax4.annotate("Collision to thermalize: {:.1f}".format(min(col2thermX, col2thermY)),
+                        xy=(0.05, 0.85), xycoords='axes fraction')
 
-    ax4.plot(time, collisions/number, '.', markersize=15)
-    if nonEq:
-        ax4.annotate("Collision to thermalize: {:.1f}".format(min(col2thermX, col2thermY)),
-                     xy=(0.05, 0.85), xycoords='axes fraction')
+        ax5.plot(time[0:-1], colRate, '.', markersize=15)
 
-    ax5.plot(time[0:-1], colRate, '.', markersize=15)
+        j = 0
+        for a in all_axes:
+            a.tick_params(axis='both', which='both', right=True, top=True, direction='in')
+            a.set_ylabel(all_ylabels[j])
+            a.set_xlabel(all_xlabels[j])
+            a.set_title(all_titles[j])
 
-    j = 0
-    for a in all_axes:
-        a.tick_params(axis='both', which='both', right=True, top=True, direction='in')
-        a.set_ylabel(all_ylabels[j])
-        a.set_xlabel(all_xlabels[j])
-        a.set_title(all_titles[j])
+            j += 1
 
-        j += 1
-
-    figures[n].suptitle(k)
+        figures[n].suptitle(k)
     n += 1
 
 plt.show()

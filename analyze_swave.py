@@ -8,8 +8,8 @@ rows = []
 with open(path, 'r') as f:
     for i, line in enumerate(f):
         if "Number of collisions to thermalize:" in line:
-            s = line.split()
-            rows.append(np.array([cross_section, ratio, float(s[-1])]))
+            ntherm = np.mean([float(i) for i in re.findall(r'\d+.\d+', line)])
+            rows.append(np.array([cross_section, ratio, ntherm]))
         elif "cross_section" in line:
             s = line.split("_")
             ratio = float(s[-3])
@@ -27,8 +27,8 @@ for i, pt in enumerate(pts):
 
 for ratio in np.unique(pts[:,1]):
     matches = pts[:,1] == ratio
-    plt.errorbar(pts[matches,0],means[matches],yerr=stds,label=ratio)
+    plt.errorbar(pts[matches,0],means[matches],yerr=stds[matches],label= "{:.1f}".format(1/ratio) if ratio != 0 else "Inf")
     plt.xlabel("Cross section (um)")
     plt.ylabel("Collision to thermalize")
-plt.legend(title="inelastic to elastic ratio",loc='upper left')
+plt.legend(title="elastic to inelastic ratio",loc='upper left')
 plt.show()
