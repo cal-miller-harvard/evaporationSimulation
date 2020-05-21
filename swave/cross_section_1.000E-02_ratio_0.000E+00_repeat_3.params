@@ -1,5 +1,5 @@
 Simulation name: Rb Cross Dimensional Thermalization
-Simulation started: 2020/05/21 at 14:20:59
+Simulation started: 2020/05/21 at 14:49:36
 
 ########### Simulation Parameters ###########
 
@@ -35,5 +35,5 @@ EVAP_RAMP: 20.0 ms
 
 #############################################
 
-Simulation completed: 2020/05/21 at 14:25:02
-Runtime: 243.14151597 s
+Simulation completed: 2020/05/21 at 14:53:38
+Runtime: 241.605914116 s

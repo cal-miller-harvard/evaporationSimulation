@@ -4,7 +4,7 @@ import subprocess
 import os
 
 # Parameters
-elastic_cross_sections = np.linspace(0.01,0.006,6)
+elastic_cross_sections = np.linspace(0.01,0.06,6)
 elastic_inelastic_ratios = [0.0, 1.0/50, 1.0/100, 1.0/150, 1.0/200, 1.0/250]
 repeats = 10
 path = "swave"
