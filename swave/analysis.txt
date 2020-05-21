@@ -1,13 +1,13 @@
 File: swave/cross_section_0.000E+00_ratio_0.000E+00_repeat_0.out
 N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: -0.00
+Slope: 0.00
 Total number of collisions: 0
 Number of collisions to thermalize: (0.0, 0.0)
 Mean Collision Rate: 0.0
 
 File: swave/cross_section_0.000E+00_ratio_0.000E+00_repeat_1.out
 N0 = 1000, n0 = 1.83E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: -0.00
+Slope: 0.00
 Total number of collisions: 0
 Number of collisions to thermalize: (0.0, 0.0)
 Mean Collision Rate: 0.0
@@ -28,7 +28,7 @@ Mean Collision Rate: 0.0
 
 File: swave/cross_section_0.000E+00_ratio_0.000E+00_repeat_4.out
 N0 = 998, n0 = 1.88E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: 0.00
+Slope: -0.00
 Total number of collisions: 0
 Number of collisions to thermalize: (0.0, 0.0)
 Mean Collision Rate: 0.0
@@ -49,7 +49,7 @@ Mean Collision Rate: 0.0
 
 File: swave/cross_section_0.000E+00_ratio_0.000E+00_repeat_7.out
 N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: 0.00
+Slope: -0.00
 Total number of collisions: 0
 Number of collisions to thermalize: (0.0, 0.0)
 Mean Collision Rate: 0.0
@@ -63,7 +63,7 @@ Mean Collision Rate: 0.0
 
 File: swave/cross_section_0.000E+00_ratio_0.000E+00_repeat_9.out
 N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: 0.00
+Slope: -0.00
 Total number of collisions: 0
 Number of collisions to thermalize: (0.0, 0.0)
 Mean Collision Rate: 0.0
@@ -84,7 +84,7 @@ Mean Collision Rate: 0.0
 
 File: swave/cross_section_0.000E+00_ratio_1.000E-02_repeat_2.out
 N0 = 1000, n0 = 1.90E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: 0.00
+Slope: -0.00
 Total number of collisions: 0
 Number of collisions to thermalize: (0.0, 0.0)
 Mean Collision Rate: 0.0
@@ -126,7 +126,7 @@ Mean Collision Rate: 0.0
 
 File: swave/cross_section_0.000E+00_ratio_1.000E-02_repeat_8.out
 N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: -0.00
+Slope: 0.00
 Total number of collisions: 0
 Number of collisions to thermalize: (0.0, 0.0)
 Mean Collision Rate: 0.0
@@ -140,7 +140,7 @@ Mean Collision Rate: 0.0
 
 File: swave/cross_section_0.000E+00_ratio_2.000E-02_repeat_0.out
 N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: -0.00
+Slope: 0.00
 Total number of collisions: 0
 Number of collisions to thermalize: (0.0, 0.0)
 Mean Collision Rate: 0.0
@@ -168,7 +168,7 @@ Mean Collision Rate: 0.0
 
 File: swave/cross_section_0.000E+00_ratio_2.000E-02_repeat_4.out
 N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: -0.00
+Slope: 0.00
 Total number of collisions: 0
 Number of collisions to thermalize: (0.0, 0.0)
 Mean Collision Rate: 0.0
@@ -182,7 +182,7 @@ Mean Collision Rate: 0.0
 
 File: swave/cross_section_0.000E+00_ratio_2.000E-02_repeat_6.out
 N0 = 1000, n0 = 1.84E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: 0.00
+Slope: -0.00
 Total number of collisions: 0
 Number of collisions to thermalize: (0.0, 0.0)
 Mean Collision Rate: 0.0
@@ -217,7 +217,7 @@ Mean Collision Rate: 0.0
 
 File: swave/cross_section_0.000E+00_ratio_4.000E-03_repeat_1.out
 N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: -0.00
+Slope: 0.00
 Total number of collisions: 0
 Number of collisions to thermalize: (0.0, 0.0)
 Mean Collision Rate: 0.0
@@ -252,14 +252,14 @@ Mean Collision Rate: 0.0
 
 File: swave/cross_section_0.000E+00_ratio_4.000E-03_repeat_6.out
 N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: -0.00
+Slope: 0.00
 Total number of collisions: 0
 Number of collisions to thermalize: (0.0, 0.0)
 Mean Collision Rate: 0.0
 
 File: swave/cross_section_0.000E+00_ratio_4.000E-03_repeat_7.out
 N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: 0.00
+Slope: -0.00
 Total number of collisions: 0
 Number of collisions to thermalize: (0.0, 0.0)
 Mean Collision Rate: 0.0
@@ -301,14 +301,14 @@ Mean Collision Rate: 0.0
 
 File: swave/cross_section_0.000E+00_ratio_5.000E-03_repeat_3.out
 N0 = 1000, n0 = 1.80E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: 0.00
+Slope: -0.00
 Total number of collisions: 0
 Number of collisions to thermalize: (0.0, 0.0)
 Mean Collision Rate: 0.0
 
 File: swave/cross_section_0.000E+00_ratio_5.000E-03_repeat_4.out
 N0 = 1000, n0 = 1.92E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: 0.00
+Slope: -0.00
 Total number of collisions: 0
 Number of collisions to thermalize: (0.0, 0.0)
 Mean Collision Rate: 0.0
@@ -392,7 +392,7 @@ Mean Collision Rate: 0.0
 
 File: swave/cross_section_0.000E+00_ratio_6.667E-03_repeat_6.out
 N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: -0.00
+Slope: 0.00
 Total number of collisions: 0
 Number of collisions to thermalize: (0.0, 0.0)
 Mean Collision Rate: 0.0
@@ -418,6 +418,426 @@ Total number of collisions: 0
 Number of collisions to thermalize: (0.0, 0.0)
 Mean Collision Rate: 0.0
 
+File: swave/cross_section_1.000E-01_ratio_0.000E+00_repeat_0.out
+N0 = 1000, n0 = 1.91E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: 0.00
+Total number of collisions: 128478
+Number of collisions to thermalize: (2.4, 2.2)
+Mean Collision Rate: 128.3
+
+File: swave/cross_section_1.000E-01_ratio_0.000E+00_repeat_1.out
+N0 = 1000, n0 = 1.79E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 124382
+Number of collisions to thermalize: (3.2, 3.7)
+Mean Collision Rate: 124.6
+
+File: swave/cross_section_1.000E-01_ratio_0.000E+00_repeat_2.out
+N0 = 1000, n0 = 1.90E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: 0.00
+Total number of collisions: 129442
+Number of collisions to thermalize: (2.1, 2.1)
+Mean Collision Rate: 129.5
+
+File: swave/cross_section_1.000E-01_ratio_0.000E+00_repeat_3.out
+N0 = 998, n0 = 1.89E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: 0.00
+Total number of collisions: 127272
+Number of collisions to thermalize: (4.3, 4.2)
+Mean Collision Rate: 127.5
+
+File: swave/cross_section_1.000E-01_ratio_0.000E+00_repeat_4.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 126184
+Number of collisions to thermalize: (2.3, 2.3)
+Mean Collision Rate: 125.9
+
+File: swave/cross_section_1.000E-01_ratio_0.000E+00_repeat_5.out
+N0 = 1000, n0 = 2.01E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 131452
+Number of collisions to thermalize: (2.9, 3.4)
+Mean Collision Rate: 131.6
+
+File: swave/cross_section_1.000E-01_ratio_0.000E+00_repeat_6.out
+N0 = 1000, n0 = 1.95E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: 0.00
+Total number of collisions: 129700
+Number of collisions to thermalize: (2.3, 2.3)
+Mean Collision Rate: 129.6
+
+File: swave/cross_section_1.000E-01_ratio_0.000E+00_repeat_7.out
+N0 = 1000, n0 = 1.82E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 125614
+Number of collisions to thermalize: (2.4, 2.9)
+Mean Collision Rate: 125.5
+
+File: swave/cross_section_1.000E-01_ratio_0.000E+00_repeat_8.out
+N0 = 1000, n0 = 1.78E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 123468
+Number of collisions to thermalize: (2.1, 119.0)
+Mean Collision Rate: 123.4
+
+File: swave/cross_section_1.000E-01_ratio_0.000E+00_repeat_9.out
+N0 = 1000, n0 = 1.86E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: 0.00
+Total number of collisions: 127294
+Number of collisions to thermalize: (5.2, 5.9)
+Mean Collision Rate: 127.4
+
+File: swave/cross_section_1.000E-01_ratio_1.000E-02_repeat_0.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.77E7 cm^2 s^-1
+Slope: -6.52
+Total number of collisions: 53830
+Number of collisions to thermalize: (110.9, 16.0)
+Mean Collision Rate: 114.9
+
+File: swave/cross_section_1.000E-01_ratio_1.000E-02_repeat_1.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.72E7 cm^2 s^-1
+Slope: -6.44
+Total number of collisions: 56064
+Number of collisions to thermalize: (117.5, 41.6)
+Mean Collision Rate: 121.6
+
+File: swave/cross_section_1.000E-01_ratio_1.000E-02_repeat_2.out
+N0 = 1000, n0 = 2.02E7 cm^-2,  beta = 0.72E7 cm^2 s^-1
+Slope: -6.43
+Total number of collisions: 58970
+Number of collisions to thermalize: (120.7, 12.2)
+Mean Collision Rate: 125.0
+
+File: swave/cross_section_1.000E-01_ratio_1.000E-02_repeat_3.out
+N0 = 1000, n0 = 1.90E7 cm^-2,  beta = 0.79E7 cm^2 s^-1
+Slope: -9.46
+Total number of collisions: 54600
+Number of collisions to thermalize: (2.3, 15.0)
+Mean Collision Rate: 122.1
+
+File: swave/cross_section_1.000E-01_ratio_1.000E-02_repeat_4.out
+N0 = 1000, n0 = 1.84E7 cm^-2,  beta = 0.73E7 cm^2 s^-1
+Slope: -7.12
+Total number of collisions: 55706
+Number of collisions to thermalize: (114.6, 11.9)
+Mean Collision Rate: 118.5
+
+File: swave/cross_section_1.000E-01_ratio_1.000E-02_repeat_5.out
+N0 = 1000, n0 = 1.91E7 cm^-2,  beta = 0.86E7 cm^2 s^-1
+Slope: -8.09
+Total number of collisions: 51364
+Number of collisions to thermalize: (116.3, 11.2)
+Mean Collision Rate: 120.5
+
+File: swave/cross_section_1.000E-01_ratio_1.000E-02_repeat_6.out
+N0 = 1000, n0 = 1.82E7 cm^-2,  beta = 0.80E7 cm^2 s^-1
+Slope: -7.78
+Total number of collisions: 52304
+Number of collisions to thermalize: (2.3, 46.2)
+Mean Collision Rate: 116.4
+
+File: swave/cross_section_1.000E-01_ratio_1.000E-02_repeat_7.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.96E7 cm^2 s^-1
+Slope: -5.11
+Total number of collisions: 50914
+Number of collisions to thermalize: (109.9, 25.8)
+Mean Collision Rate: 113.8
+
+File: swave/cross_section_1.000E-01_ratio_1.000E-02_repeat_8.out
+N0 = 998, n0 = 1.95E7 cm^-2,  beta = 0.74E7 cm^2 s^-1
+Slope: -6.72
+Total number of collisions: 58020
+Number of collisions to thermalize: (120.3, 13.1)
+Mean Collision Rate: 124.7
+
+File: swave/cross_section_1.000E-01_ratio_1.000E-02_repeat_9.out
+N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.87E7 cm^2 s^-1
+Slope: -8.81
+Total number of collisions: 50310
+Number of collisions to thermalize: (116.4, 6.6)
+Mean Collision Rate: 120.6
+
+File: swave/cross_section_1.000E-01_ratio_2.000E-02_repeat_0.out
+N0 = 1000, n0 = 1.95E7 cm^-2,  beta = 1.47E7 cm^2 s^-1
+Slope: -6.54
+Total number of collisions: 36078
+Number of collisions to thermalize: (119.0, 119.0)
+Mean Collision Rate: 123.3
+
+File: swave/cross_section_1.000E-01_ratio_2.000E-02_repeat_1.out
+N0 = 1000, n0 = 1.86E7 cm^-2,  beta = 1.46E7 cm^2 s^-1
+Slope: -8.12
+Total number of collisions: 35192
+Number of collisions to thermalize: (119.7, 16.8)
+Mean Collision Rate: 124.1
+
+File: swave/cross_section_1.000E-01_ratio_2.000E-02_repeat_2.out
+N0 = 1000, n0 = 1.94E7 cm^-2,  beta = 1.51E7 cm^2 s^-1
+Slope: -6.86
+Total number of collisions: 34404
+Number of collisions to thermalize: (110.3, 66.8)
+Mean Collision Rate: 114.2
+
+File: swave/cross_section_1.000E-01_ratio_2.000E-02_repeat_3.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 1.43E7 cm^2 s^-1
+Slope: -7.61
+Total number of collisions: 36796
+Number of collisions to thermalize: (114.0, 26.5)
+Mean Collision Rate: 118.2
+
+File: swave/cross_section_1.000E-01_ratio_2.000E-02_repeat_4.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 1.58E7 cm^2 s^-1
+Slope: -9.42
+Total number of collisions: 34922
+Number of collisions to thermalize: (109.7, 24.2)
+Mean Collision Rate: 119.1
+
+File: swave/cross_section_1.000E-01_ratio_2.000E-02_repeat_5.out
+N0 = 1000, n0 = 1.98E7 cm^-2,  beta = 1.47E7 cm^2 s^-1
+Slope: -7.46
+Total number of collisions: 36708
+Number of collisions to thermalize: (118.8, 15.0)
+Mean Collision Rate: 123.0
+
+File: swave/cross_section_1.000E-01_ratio_2.000E-02_repeat_6.out
+N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 1.55E7 cm^2 s^-1
+Slope: -10.00
+Total number of collisions: 34872
+Number of collisions to thermalize: (2.1, 51.6)
+Mean Collision Rate: 122.1
+
+File: swave/cross_section_1.000E-01_ratio_2.000E-02_repeat_7.out
+N0 = 1000, n0 = 1.81E7 cm^-2,  beta = 1.46E7 cm^2 s^-1
+Slope: -11.21
+Total number of collisions: 34176
+Number of collisions to thermalize: (112.9, 16.2)
+Mean Collision Rate: 116.9
+
+File: swave/cross_section_1.000E-01_ratio_2.000E-02_repeat_8.out
+N0 = 1000, n0 = 1.96E7 cm^-2,  beta = 1.59E7 cm^2 s^-1
+Slope: -8.78
+Total number of collisions: 34758
+Number of collisions to thermalize: (118.5, 67.3)
+Mean Collision Rate: 122.7
+
+File: swave/cross_section_1.000E-01_ratio_2.000E-02_repeat_9.out
+N0 = 1000, n0 = 1.96E7 cm^-2,  beta = 1.74E7 cm^2 s^-1
+Slope: -6.62
+Total number of collisions: 34854
+Number of collisions to thermalize: (115.3, 20.7)
+Mean Collision Rate: 121.7
+
+File: swave/cross_section_1.000E-01_ratio_4.000E-03_repeat_0.out
+N0 = 1000, n0 = 1.85E7 cm^-2,  beta = 0.38E7 cm^2 s^-1
+Slope: -6.27
+Total number of collisions: 76670
+Number of collisions to thermalize: (116.3, 6.2)
+Mean Collision Rate: 120.4
+
+File: swave/cross_section_1.000E-01_ratio_4.000E-03_repeat_1.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.29E7 cm^2 s^-1
+Slope: -9.04
+Total number of collisions: 84262
+Number of collisions to thermalize: (2.3, 24.0)
+Mean Collision Rate: 126.2
+
+File: swave/cross_section_1.000E-01_ratio_4.000E-03_repeat_2.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.33E7 cm^2 s^-1
+Slope: -7.02
+Total number of collisions: 81472
+Number of collisions to thermalize: (2.1, 5.6)
+Mean Collision Rate: 123.9
+
+File: swave/cross_section_1.000E-01_ratio_4.000E-03_repeat_3.out
+N0 = 1000, n0 = 1.80E7 cm^-2,  beta = 0.35E7 cm^2 s^-1
+Slope: -7.50
+Total number of collisions: 76134
+Number of collisions to thermalize: (2.1, 4.2)
+Mean Collision Rate: 119.1
+
+File: swave/cross_section_1.000E-01_ratio_4.000E-03_repeat_4.out
+N0 = 998, n0 = 1.92E7 cm^-2,  beta = 0.34E7 cm^2 s^-1
+Slope: -6.18
+Total number of collisions: 80778
+Number of collisions to thermalize: (2.1, 14.2)
+Mean Collision Rate: 126.3
+
+File: swave/cross_section_1.000E-01_ratio_4.000E-03_repeat_5.out
+N0 = 1000, n0 = 1.95E7 cm^-2,  beta = 0.31E7 cm^2 s^-1
+Slope: -8.45
+Total number of collisions: 82332
+Number of collisions to thermalize: (122.8, 2.6)
+Mean Collision Rate: 127.3
+
+File: swave/cross_section_1.000E-01_ratio_4.000E-03_repeat_6.out
+N0 = 1000, n0 = 1.86E7 cm^-2,  beta = 0.32E7 cm^2 s^-1
+Slope: -7.07
+Total number of collisions: 83116
+Number of collisions to thermalize: (121.3, 5.3)
+Mean Collision Rate: 125.7
+
+File: swave/cross_section_1.000E-01_ratio_4.000E-03_repeat_7.out
+N0 = 998, n0 = 1.93E7 cm^-2,  beta = 0.27E7 cm^2 s^-1
+Slope: -7.78
+Total number of collisions: 87812
+Number of collisions to thermalize: (2.1, 5.2)
+Mean Collision Rate: 129.6
+
+File: swave/cross_section_1.000E-01_ratio_4.000E-03_repeat_8.out
+N0 = 998, n0 = 1.85E7 cm^-2,  beta = 0.30E7 cm^2 s^-1
+Slope: -5.35
+Total number of collisions: 83856
+Number of collisions to thermalize: (3.7, 22.0)
+Mean Collision Rate: 123.5
+
+File: swave/cross_section_1.000E-01_ratio_4.000E-03_repeat_9.out
+N0 = 1000, n0 = 1.95E7 cm^-2,  beta = 0.29E7 cm^2 s^-1
+Slope: -6.90
+Total number of collisions: 85730
+Number of collisions to thermalize: (2.3, 13.9)
+Mean Collision Rate: 125.7
+
+File: swave/cross_section_1.000E-01_ratio_5.000E-03_repeat_0.out
+N0 = 1000, n0 = 1.83E7 cm^-2,  beta = 0.35E7 cm^2 s^-1
+Slope: -8.61
+Total number of collisions: 77170
+Number of collisions to thermalize: (2.7, 5.8)
+Mean Collision Rate: 121.9
+
+File: swave/cross_section_1.000E-01_ratio_5.000E-03_repeat_1.out
+N0 = 1000, n0 = 1.84E7 cm^-2,  beta = 0.38E7 cm^2 s^-1
+Slope: -6.79
+Total number of collisions: 75996
+Number of collisions to thermalize: (2.1, 28.6)
+Mean Collision Rate: 122.8
+
+File: swave/cross_section_1.000E-01_ratio_5.000E-03_repeat_2.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.36E7 cm^2 s^-1
+Slope: -6.64
+Total number of collisions: 76324
+Number of collisions to thermalize: (2.2, 8.5)
+Mean Collision Rate: 123.2
+
+File: swave/cross_section_1.000E-01_ratio_5.000E-03_repeat_3.out
+N0 = 1000, n0 = 1.95E7 cm^-2,  beta = 0.40E7 cm^2 s^-1
+Slope: -5.45
+Total number of collisions: 76862
+Number of collisions to thermalize: (123.6, 6.1)
+Mean Collision Rate: 128.1
+
+File: swave/cross_section_1.000E-01_ratio_5.000E-03_repeat_4.out
+N0 = 1000, n0 = 1.79E7 cm^-2,  beta = 0.48E7 cm^2 s^-1
+Slope: -6.07
+Total number of collisions: 70918
+Number of collisions to thermalize: (115.7, 9.4)
+Mean Collision Rate: 119.9
+
+File: swave/cross_section_1.000E-01_ratio_5.000E-03_repeat_5.out
+N0 = 1000, n0 = 1.84E7 cm^-2,  beta = 0.38E7 cm^2 s^-1
+Slope: -7.62
+Total number of collisions: 77446
+Number of collisions to thermalize: (2.3, 3.9)
+Mean Collision Rate: 126.1
+
+File: swave/cross_section_1.000E-01_ratio_5.000E-03_repeat_6.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.39E7 cm^2 s^-1
+Slope: -5.28
+Total number of collisions: 79278
+Number of collisions to thermalize: (121.7, 8.7)
+Mean Collision Rate: 126.0
+
+File: swave/cross_section_1.000E-01_ratio_5.000E-03_repeat_7.out
+N0 = 1000, n0 = 1.82E7 cm^-2,  beta = 0.37E7 cm^2 s^-1
+Slope: -7.02
+Total number of collisions: 76480
+Number of collisions to thermalize: (2.3, 45.4)
+Mean Collision Rate: 121.5
+
+File: swave/cross_section_1.000E-01_ratio_5.000E-03_repeat_8.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.36E7 cm^2 s^-1
+Slope: -7.02
+Total number of collisions: 79268
+Number of collisions to thermalize: (121.5, 4.7)
+Mean Collision Rate: 125.7
+
+File: swave/cross_section_1.000E-01_ratio_5.000E-03_repeat_9.out
+N0 = 1000, n0 = 1.82E7 cm^-2,  beta = 0.36E7 cm^2 s^-1
+Slope: -6.80
+Total number of collisions: 79368
+Number of collisions to thermalize: (119.3, 5.1)
+Mean Collision Rate: 123.7
+
+File: swave/cross_section_1.000E-01_ratio_6.667E-03_repeat_0.out
+N0 = 998, n0 = 1.93E7 cm^-2,  beta = 0.50E7 cm^2 s^-1
+Slope: -9.47
+Total number of collisions: 68080
+Number of collisions to thermalize: (2.3, 4.4)
+Mean Collision Rate: 126.0
+
+File: swave/cross_section_1.000E-01_ratio_6.667E-03_repeat_1.out
+N0 = 1000, n0 = 1.94E7 cm^-2,  beta = 0.51E7 cm^2 s^-1
+Slope: -8.90
+Total number of collisions: 68986
+Number of collisions to thermalize: (123.6, 9.2)
+Mean Collision Rate: 128.3
+
+File: swave/cross_section_1.000E-01_ratio_6.667E-03_repeat_2.out
+N0 = 1000, n0 = 1.92E7 cm^-2,  beta = 0.47E7 cm^2 s^-1
+Slope: -6.00
+Total number of collisions: 72408
+Number of collisions to thermalize: (2.3, 49.3)
+Mean Collision Rate: 127.4
+
+File: swave/cross_section_1.000E-01_ratio_6.667E-03_repeat_3.out
+N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.48E7 cm^2 s^-1
+Slope: -10.07
+Total number of collisions: 68158
+Number of collisions to thermalize: (2.2, 6.9)
+Mean Collision Rate: 124.2
+
+File: swave/cross_section_1.000E-01_ratio_6.667E-03_repeat_4.out
+N0 = 1000, n0 = 1.86E7 cm^-2,  beta = 0.51E7 cm^2 s^-1
+Slope: -6.89
+Total number of collisions: 67544
+Number of collisions to thermalize: (117.4, 5.7)
+Mean Collision Rate: 121.6
+
+File: swave/cross_section_1.000E-01_ratio_6.667E-03_repeat_5.out
+N0 = 1000, n0 = 1.77E7 cm^-2,  beta = 0.45E7 cm^2 s^-1
+Slope: -9.85
+Total number of collisions: 69308
+Number of collisions to thermalize: (2.1, 6.5)
+Mean Collision Rate: 121.8
+
+File: swave/cross_section_1.000E-01_ratio_6.667E-03_repeat_6.out
+N0 = 1000, n0 = 1.94E7 cm^-2,  beta = 0.50E7 cm^2 s^-1
+Slope: -6.17
+Total number of collisions: 71428
+Number of collisions to thermalize: (122.5, 11.7)
+Mean Collision Rate: 127.0
+
+File: swave/cross_section_1.000E-01_ratio_6.667E-03_repeat_7.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.56E7 cm^2 s^-1
+Slope: -5.37
+Total number of collisions: 65810
+Number of collisions to thermalize: (118.7, 11.7)
+Mean Collision Rate: 122.9
+
+File: swave/cross_section_1.000E-01_ratio_6.667E-03_repeat_8.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.47E7 cm^2 s^-1
+Slope: -10.15
+Total number of collisions: 69706
+Number of collisions to thermalize: (2.2, 6.3)
+Mean Collision Rate: 123.3
+
+File: swave/cross_section_1.000E-01_ratio_6.667E-03_repeat_9.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.50E7 cm^2 s^-1
+Slope: -7.30
+Total number of collisions: 68846
+Number of collisions to thermalize: (2.3, 30.6)
+Mean Collision Rate: 125.3
+
 File: swave/cross_section_1.000E-03_ratio_0.000E+00_repeat_0.out
 N0 = 1000, n0 = 1.86E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
 Slope: -0.00
@@ -441,7 +861,7 @@ Mean Collision Rate: 1.3
 
 File: swave/cross_section_1.000E-03_ratio_0.000E+00_repeat_3.out
 N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: 0.00
+Slope: -0.00
 Total number of collisions: 1296
 Number of collisions to thermalize: (1.3, 1.3)
 Mean Collision Rate: 1.3
@@ -644,7 +1064,7 @@ Mean Collision Rate: 1.3
 
 File: swave/cross_section_1.000E-03_ratio_4.000E-03_repeat_2.out
 N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: -0.00
+Slope: 0.00
 Total number of collisions: 1318
 Number of collisions to thermalize: (0.6, 0.7)
 Mean Collision Rate: 1.3
@@ -840,7 +1260,7 @@ Mean Collision Rate: 1.4
 
 File: swave/cross_section_1.500E-03_ratio_0.000E+00_repeat_0.out
 N0 = 1000, n0 = 1.95E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: -0.00
+Slope: 0.00
 Total number of collisions: 1892
 Number of collisions to thermalize: (1.8, 1.8)
 Mean Collision Rate: 1.9
@@ -896,14 +1316,14 @@ Mean Collision Rate: 1.9
 
 File: swave/cross_section_1.500E-03_ratio_0.000E+00_repeat_8.out
 N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: -0.00
+Slope: 0.00
 Total number of collisions: 1932
 Number of collisions to thermalize: (0.9, 1.0)
 Mean Collision Rate: 1.9
 
 File: swave/cross_section_1.500E-03_ratio_0.000E+00_repeat_9.out
 N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: 0.00
+Slope: -0.00
 Total number of collisions: 2044
 Number of collisions to thermalize: (1.5, 1.6)
 Mean Collision Rate: 2.0
@@ -1288,7 +1708,7 @@ Mean Collision Rate: 2.6
 
 File: swave/cross_section_2.000E-03_ratio_0.000E+00_repeat_4.out
 N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: 0.00
+Slope: -0.00
 Total number of collisions: 2434
 Number of collisions to thermalize: (1.7, 1.7)
 Mean Collision Rate: 2.4
@@ -1302,14 +1722,14 @@ Mean Collision Rate: 2.6
 
 File: swave/cross_section_2.000E-03_ratio_0.000E+00_repeat_6.out
 N0 = 1000, n0 = 1.79E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: 0.00
+Slope: -0.00
 Total number of collisions: 2516
 Number of collisions to thermalize: (2.0, 1.9)
 Mean Collision Rate: 2.5
 
 File: swave/cross_section_2.000E-03_ratio_0.000E+00_repeat_7.out
 N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: -0.00
+Slope: 0.00
 Total number of collisions: 2550
 Number of collisions to thermalize: (0.8, 0.8)
 Mean Collision Rate: 2.6
@@ -1323,7 +1743,7 @@ Mean Collision Rate: 2.7
 
 File: swave/cross_section_2.000E-03_ratio_0.000E+00_repeat_9.out
 N0 = 1000, n0 = 1.90E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: 0.00
+Slope: -0.00
 Total number of collisions: 2628
 Number of collisions to thermalize: (2.0, 2.0)
 Mean Collision Rate: 2.6
@@ -1687,7 +2107,7 @@ Mean Collision Rate: 3.3
 
 File: swave/cross_section_2.500E-03_ratio_0.000E+00_repeat_1.out
 N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: 0.00
+Slope: -0.00
 Total number of collisions: 3386
 Number of collisions to thermalize: (3.3, 3.2)
 Mean Collision Rate: 3.4
@@ -1701,7 +2121,7 @@ Mean Collision Rate: 3.2
 
 File: swave/cross_section_2.500E-03_ratio_0.000E+00_repeat_3.out
 N0 = 1000, n0 = 1.98E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: 0.00
+Slope: -0.00
 Total number of collisions: 3304
 Number of collisions to thermalize: (1.8, 1.8)
 Mean Collision Rate: 3.3
@@ -1715,14 +2135,14 @@ Mean Collision Rate: 3.1
 
 File: swave/cross_section_2.500E-03_ratio_0.000E+00_repeat_5.out
 N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: -0.00
+Slope: 0.00
 Total number of collisions: 3328
 Number of collisions to thermalize: (3.2, 3.2)
 Mean Collision Rate: 3.4
 
 File: swave/cross_section_2.500E-03_ratio_0.000E+00_repeat_6.out
 N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: 0.00
+Slope: -0.00
 Total number of collisions: 3416
 Number of collisions to thermalize: (3.3, 3.3)
 Mean Collision Rate: 3.4
@@ -2156,14 +2576,14 @@ Mean Collision Rate: 4.0
 
 File: swave/cross_section_3.000E-03_ratio_0.000E+00_repeat_8.out
 N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: 0.00
+Slope: -0.00
 Total number of collisions: 3920
 Number of collisions to thermalize: (2.2, 2.3)
 Mean Collision Rate: 3.9
 
 File: swave/cross_section_3.000E-03_ratio_0.000E+00_repeat_9.out
 N0 = 1000, n0 = 1.92E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: 0.00
+Slope: -0.00
 Total number of collisions: 3922
 Number of collisions to thermalize: (2.0, 2.0)
 Mean Collision Rate: 3.9
@@ -2534,7 +2954,7 @@ Mean Collision Rate: 4.4
 
 File: swave/cross_section_3.500E-03_ratio_0.000E+00_repeat_2.out
 N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: 0.00
+Slope: -0.00
 Total number of collisions: 4524
 Number of collisions to thermalize: (1.2, 1.2)
 Mean Collision Rate: 4.5
@@ -2555,7 +2975,7 @@ Mean Collision Rate: 4.3
 
 File: swave/cross_section_3.500E-03_ratio_0.000E+00_repeat_5.out
 N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: 0.00
+Slope: -0.00
 Total number of collisions: 4466
 Number of collisions to thermalize: (1.5, 1.6)
 Mean Collision Rate: 4.5
@@ -2968,7 +3388,7 @@ Mean Collision Rate: 5.1
 
 File: swave/cross_section_4.000E-03_ratio_0.000E+00_repeat_4.out
 N0 = 1000, n0 = 1.92E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: -0.00
+Slope: 0.00
 Total number of collisions: 5282
 Number of collisions to thermalize: (3.3, 3.5)
 Mean Collision Rate: 5.3
@@ -2982,7 +3402,7 @@ Mean Collision Rate: 5.0
 
 File: swave/cross_section_4.000E-03_ratio_0.000E+00_repeat_6.out
 N0 = 1000, n0 = 1.91E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: 0.00
+Slope: -0.00
 Total number of collisions: 5318
 Number of collisions to thermalize: (2.3, 2.2)
 Mean Collision Rate: 5.3
@@ -3388,7 +3808,7 @@ Mean Collision Rate: 6.0
 
 File: swave/cross_section_4.500E-03_ratio_0.000E+00_repeat_4.out
 N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: -0.00
+Slope: 0.00
 Total number of collisions: 5836
 Number of collisions to thermalize: (1.3, 1.2)
 Mean Collision Rate: 5.8
@@ -4200,7 +4620,7 @@ Mean Collision Rate: 6.5
 
 File: swave/cross_section_5.000E-04_ratio_0.000E+00_repeat_0.out
 N0 = 1000, n0 = 1.94E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: -0.00
+Slope: 0.00
 Total number of collisions: 692
 Number of collisions to thermalize: (0.7, 0.7)
 Mean Collision Rate: 0.7
@@ -4228,7 +4648,7 @@ Mean Collision Rate: 0.6
 
 File: swave/cross_section_5.000E-04_ratio_0.000E+00_repeat_4.out
 N0 = 1000, n0 = 1.96E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: -0.00
+Slope: 0.00
 Total number of collisions: 618
 Number of collisions to thermalize: (0.6, 0.6)
 Mean Collision Rate: 0.6
@@ -4256,7 +4676,7 @@ Mean Collision Rate: 0.7
 
 File: swave/cross_section_5.000E-04_ratio_0.000E+00_repeat_8.out
 N0 = 1000, n0 = 1.86E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
-Slope: -0.00
+Slope: 0.00
 Total number of collisions: 622
 Number of collisions to thermalize: (0.6, 0.6)
 Mean Collision Rate: 0.6
@@ -4617,4 +5037,2104 @@ Slope: -0.04
 Total number of collisions: 654
 Number of collisions to thermalize: (0.6, 0.6)
 Mean Collision Rate: 0.7
+
+File: swave/cross_section_6.000E-02_ratio_0.000E+00_repeat_0.out
+N0 = 1000, n0 = 1.84E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 74966
+Number of collisions to thermalize: (2.6, 2.5)
+Mean Collision Rate: 74.9
+
+File: swave/cross_section_6.000E-02_ratio_0.000E+00_repeat_1.out
+N0 = 1000, n0 = 1.85E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 75270
+Number of collisions to thermalize: (3.4, 3.6)
+Mean Collision Rate: 75.2
+
+File: swave/cross_section_6.000E-02_ratio_0.000E+00_repeat_2.out
+N0 = 1000, n0 = 1.91E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: 0.00
+Total number of collisions: 76724
+Number of collisions to thermalize: (2.5, 2.4)
+Mean Collision Rate: 76.7
+
+File: swave/cross_section_6.000E-02_ratio_0.000E+00_repeat_3.out
+N0 = 1000, n0 = 1.84E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 74460
+Number of collisions to thermalize: (4.4, 4.1)
+Mean Collision Rate: 74.4
+
+File: swave/cross_section_6.000E-02_ratio_0.000E+00_repeat_4.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 75660
+Number of collisions to thermalize: (3.0, 3.1)
+Mean Collision Rate: 75.7
+
+File: swave/cross_section_6.000E-02_ratio_0.000E+00_repeat_5.out
+N0 = 1000, n0 = 1.96E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: 0.00
+Total number of collisions: 76868
+Number of collisions to thermalize: (1.9, 2.0)
+Mean Collision Rate: 76.8
+
+File: swave/cross_section_6.000E-02_ratio_0.000E+00_repeat_6.out
+N0 = 1000, n0 = 1.91E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 75410
+Number of collisions to thermalize: (1.7, 1.7)
+Mean Collision Rate: 75.2
+
+File: swave/cross_section_6.000E-02_ratio_0.000E+00_repeat_7.out
+N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 76432
+Number of collisions to thermalize: (2.6, 2.6)
+Mean Collision Rate: 76.4
+
+File: swave/cross_section_6.000E-02_ratio_0.000E+00_repeat_8.out
+N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 76308
+Number of collisions to thermalize: (2.3, 2.0)
+Mean Collision Rate: 76.3
+
+File: swave/cross_section_6.000E-02_ratio_0.000E+00_repeat_9.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 75798
+Number of collisions to thermalize: (1.7, 1.7)
+Mean Collision Rate: 75.7
+
+File: swave/cross_section_6.000E-02_ratio_1.000E-02_repeat_0.out
+N0 = 1000, n0 = 1.90E7 cm^-2,  beta = 0.48E7 cm^2 s^-1
+Slope: -7.71
+Total number of collisions: 40570
+Number of collisions to thermalize: (70.5, 3.6)
+Mean Collision Rate: 73.0
+
+File: swave/cross_section_6.000E-02_ratio_1.000E-02_repeat_1.out
+N0 = 1000, n0 = 1.85E7 cm^-2,  beta = 0.44E7 cm^2 s^-1
+Slope: -5.75
+Total number of collisions: 42480
+Number of collisions to thermalize: (70.2, 2.5)
+Mean Collision Rate: 72.6
+
+File: swave/cross_section_6.000E-02_ratio_1.000E-02_repeat_2.out
+N0 = 1000, n0 = 1.90E7 cm^-2,  beta = 0.43E7 cm^2 s^-1
+Slope: -5.46
+Total number of collisions: 44840
+Number of collisions to thermalize: (1.3, 6.6)
+Mean Collision Rate: 75.3
+
+File: swave/cross_section_6.000E-02_ratio_1.000E-02_repeat_3.out
+N0 = 1000, n0 = 1.84E7 cm^-2,  beta = 0.41E7 cm^2 s^-1
+Slope: -8.49
+Total number of collisions: 43212
+Number of collisions to thermalize: (1.3, 5.8)
+Mean Collision Rate: 72.6
+
+File: swave/cross_section_6.000E-02_ratio_1.000E-02_repeat_4.out
+N0 = 998, n0 = 1.88E7 cm^-2,  beta = 0.46E7 cm^2 s^-1
+Slope: -10.23
+Total number of collisions: 42848
+Number of collisions to thermalize: (1.4, 2.3)
+Mean Collision Rate: 75.8
+
+File: swave/cross_section_6.000E-02_ratio_1.000E-02_repeat_5.out
+N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.42E7 cm^2 s^-1
+Slope: -9.17
+Total number of collisions: 43752
+Number of collisions to thermalize: (2.0, 4.0)
+Mean Collision Rate: 74.6
+
+File: swave/cross_section_6.000E-02_ratio_1.000E-02_repeat_6.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.45E7 cm^2 s^-1
+Slope: -6.86
+Total number of collisions: 43694
+Number of collisions to thermalize: (1.3, 3.8)
+Mean Collision Rate: 77.4
+
+File: swave/cross_section_6.000E-02_ratio_1.000E-02_repeat_7.out
+N0 = 1000, n0 = 1.98E7 cm^-2,  beta = 0.50E7 cm^2 s^-1
+Slope: -8.53
+Total number of collisions: 41778
+Number of collisions to thermalize: (2.0, 4.7)
+Mean Collision Rate: 74.3
+
+File: swave/cross_section_6.000E-02_ratio_1.000E-02_repeat_8.out
+N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.45E7 cm^2 s^-1
+Slope: -8.18
+Total number of collisions: 43970
+Number of collisions to thermalize: (2.3, 11.9)
+Mean Collision Rate: 76.5
+
+File: swave/cross_section_6.000E-02_ratio_1.000E-02_repeat_9.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.42E7 cm^2 s^-1
+Slope: -8.71
+Total number of collisions: 43210
+Number of collisions to thermalize: (2.3, 4.4)
+Mean Collision Rate: 73.2
+
+File: swave/cross_section_6.000E-02_ratio_2.000E-02_repeat_0.out
+N0 = 1000, n0 = 1.82E7 cm^-2,  beta = 0.95E7 cm^2 s^-1
+Slope: -8.42
+Total number of collisions: 27664
+Number of collisions to thermalize: (1.7, 5.7)
+Mean Collision Rate: 69.9
+
+File: swave/cross_section_6.000E-02_ratio_2.000E-02_repeat_1.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.82E7 cm^2 s^-1
+Slope: -10.89
+Total number of collisions: 30544
+Number of collisions to thermalize: (2.0, 4.9)
+Mean Collision Rate: 72.1
+
+File: swave/cross_section_6.000E-02_ratio_2.000E-02_repeat_2.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.93E7 cm^2 s^-1
+Slope: -6.42
+Total number of collisions: 29944
+Number of collisions to thermalize: (69.3, 11.7)
+Mean Collision Rate: 71.8
+
+File: swave/cross_section_6.000E-02_ratio_2.000E-02_repeat_3.out
+N0 = 1000, n0 = 1.82E7 cm^-2,  beta = 0.91E7 cm^2 s^-1
+Slope: -7.76
+Total number of collisions: 28404
+Number of collisions to thermalize: (66.7, 17.3)
+Mean Collision Rate: 69.1
+
+File: swave/cross_section_6.000E-02_ratio_2.000E-02_repeat_4.out
+N0 = 1000, n0 = 1.90E7 cm^-2,  beta = 0.96E7 cm^2 s^-1
+Slope: -4.87
+Total number of collisions: 29766
+Number of collisions to thermalize: (70.9, 33.1)
+Mean Collision Rate: 73.4
+
+File: swave/cross_section_6.000E-02_ratio_2.000E-02_repeat_5.out
+N0 = 1000, n0 = 1.86E7 cm^-2,  beta = 0.91E7 cm^2 s^-1
+Slope: -8.02
+Total number of collisions: 30108
+Number of collisions to thermalize: (71.0, 5.4)
+Mean Collision Rate: 73.6
+
+File: swave/cross_section_6.000E-02_ratio_2.000E-02_repeat_6.out
+N0 = 1000, n0 = 1.86E7 cm^-2,  beta = 0.91E7 cm^2 s^-1
+Slope: -6.40
+Total number of collisions: 29968
+Number of collisions to thermalize: (66.4, 9.6)
+Mean Collision Rate: 68.8
+
+File: swave/cross_section_6.000E-02_ratio_2.000E-02_repeat_7.out
+N0 = 1000, n0 = 1.85E7 cm^-2,  beta = 0.91E7 cm^2 s^-1
+Slope: -6.32
+Total number of collisions: 29138
+Number of collisions to thermalize: (1.5, 16.2)
+Mean Collision Rate: 72.4
+
+File: swave/cross_section_6.000E-02_ratio_2.000E-02_repeat_8.out
+N0 = 1000, n0 = 2.02E7 cm^-2,  beta = 1.03E7 cm^2 s^-1
+Slope: -6.80
+Total number of collisions: 28982
+Number of collisions to thermalize: (73.1, 14.6)
+Mean Collision Rate: 75.9
+
+File: swave/cross_section_6.000E-02_ratio_2.000E-02_repeat_9.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.91E7 cm^2 s^-1
+Slope: -6.87
+Total number of collisions: 29480
+Number of collisions to thermalize: (69.7, 4.6)
+Mean Collision Rate: 72.2
+
+File: swave/cross_section_6.000E-02_ratio_4.000E-03_repeat_0.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.25E7 cm^2 s^-1
+Slope: -4.96
+Total number of collisions: 54800
+Number of collisions to thermalize: (1.4, 2.4)
+Mean Collision Rate: 76.1
+
+File: swave/cross_section_6.000E-02_ratio_4.000E-03_repeat_1.out
+N0 = 998, n0 = 1.87E7 cm^-2,  beta = 0.16E7 cm^2 s^-1
+Slope: -9.33
+Total number of collisions: 58162
+Number of collisions to thermalize: (1.4, 1.8)
+Mean Collision Rate: 74.2
+
+File: swave/cross_section_6.000E-02_ratio_4.000E-03_repeat_2.out
+N0 = 1000, n0 = 1.82E7 cm^-2,  beta = 0.16E7 cm^2 s^-1
+Slope: 6.05
+Total number of collisions: 58930
+Number of collisions to thermalize: (3.0, 3.0)
+Mean Collision Rate: 76.0
+
+File: swave/cross_section_6.000E-02_ratio_4.000E-03_repeat_3.out
+N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.18E7 cm^2 s^-1
+Slope: -7.80
+Total number of collisions: 57372
+Number of collisions to thermalize: (1.8, 3.1)
+Mean Collision Rate: 74.8
+
+File: swave/cross_section_6.000E-02_ratio_4.000E-03_repeat_4.out
+N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.21E7 cm^2 s^-1
+Slope: -6.42
+Total number of collisions: 57404
+Number of collisions to thermalize: (1.6, 3.4)
+Mean Collision Rate: 75.1
+
+File: swave/cross_section_6.000E-02_ratio_4.000E-03_repeat_5.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.23E7 cm^2 s^-1
+Slope: -4.00
+Total number of collisions: 55528
+Number of collisions to thermalize: (1.4, 12.0)
+Mean Collision Rate: 73.8
+
+File: swave/cross_section_6.000E-02_ratio_4.000E-03_repeat_6.out
+N0 = 1000, n0 = 1.79E7 cm^-2,  beta = 0.17E7 cm^2 s^-1
+Slope: -5.40
+Total number of collisions: 56880
+Number of collisions to thermalize: (1.8, 3.4)
+Mean Collision Rate: 71.5
+
+File: swave/cross_section_6.000E-02_ratio_4.000E-03_repeat_7.out
+N0 = 1000, n0 = 1.95E7 cm^-2,  beta = 0.18E7 cm^2 s^-1
+Slope: -5.76
+Total number of collisions: 59056
+Number of collisions to thermalize: (3.2, 5.8)
+Mean Collision Rate: 77.1
+
+File: swave/cross_section_6.000E-02_ratio_4.000E-03_repeat_8.out
+N0 = 1000, n0 = 1.85E7 cm^-2,  beta = 0.17E7 cm^2 s^-1
+Slope: -7.54
+Total number of collisions: 59580
+Number of collisions to thermalize: (3.4, 3.9)
+Mean Collision Rate: 75.9
+
+File: swave/cross_section_6.000E-02_ratio_4.000E-03_repeat_9.out
+N0 = 1000, n0 = 1.82E7 cm^-2,  beta = 0.18E7 cm^2 s^-1
+Slope: -4.93
+Total number of collisions: 56436
+Number of collisions to thermalize: (1.4, 2.1)
+Mean Collision Rate: 71.6
+
+File: swave/cross_section_6.000E-02_ratio_5.000E-03_repeat_0.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.24E7 cm^2 s^-1
+Slope: -6.49
+Total number of collisions: 53062
+Number of collisions to thermalize: (1.5, 2.6)
+Mean Collision Rate: 73.5
+
+File: swave/cross_section_6.000E-02_ratio_5.000E-03_repeat_1.out
+N0 = 1000, n0 = 1.81E7 cm^-2,  beta = 0.25E7 cm^2 s^-1
+Slope: -9.54
+Total number of collisions: 52564
+Number of collisions to thermalize: (3.0, 4.8)
+Mean Collision Rate: 74.5
+
+File: swave/cross_section_6.000E-02_ratio_5.000E-03_repeat_2.out
+N0 = 1000, n0 = 1.91E7 cm^-2,  beta = 0.26E7 cm^2 s^-1
+Slope: -5.79
+Total number of collisions: 52492
+Number of collisions to thermalize: (2.0, 4.1)
+Mean Collision Rate: 73.9
+
+File: swave/cross_section_6.000E-02_ratio_5.000E-03_repeat_3.out
+N0 = 1000, n0 = 1.92E7 cm^-2,  beta = 0.18E7 cm^2 s^-1
+Slope: -9.94
+Total number of collisions: 56240
+Number of collisions to thermalize: (3.2, 5.7)
+Mean Collision Rate: 74.5
+
+File: swave/cross_section_6.000E-02_ratio_5.000E-03_repeat_4.out
+N0 = 998, n0 = 1.89E7 cm^-2,  beta = 0.20E7 cm^2 s^-1
+Slope: -9.60
+Total number of collisions: 54930
+Number of collisions to thermalize: (1.9, 2.7)
+Mean Collision Rate: 74.0
+
+File: swave/cross_section_6.000E-02_ratio_5.000E-03_repeat_5.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.21E7 cm^2 s^-1
+Slope: -7.65
+Total number of collisions: 56610
+Number of collisions to thermalize: (2.8, 4.2)
+Mean Collision Rate: 78.1
+
+File: swave/cross_section_6.000E-02_ratio_5.000E-03_repeat_6.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.24E7 cm^2 s^-1
+Slope: -5.31
+Total number of collisions: 56780
+Number of collisions to thermalize: (1.8, 2.8)
+Mean Collision Rate: 79.4
+
+File: swave/cross_section_6.000E-02_ratio_5.000E-03_repeat_7.out
+N0 = 998, n0 = 1.92E7 cm^-2,  beta = 0.26E7 cm^2 s^-1
+Slope: -6.91
+Total number of collisions: 53512
+Number of collisions to thermalize: (2.5, 6.0)
+Mean Collision Rate: 75.4
+
+File: swave/cross_section_6.000E-02_ratio_5.000E-03_repeat_8.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.23E7 cm^2 s^-1
+Slope: -5.73
+Total number of collisions: 55528
+Number of collisions to thermalize: (2.1, 6.8)
+Mean Collision Rate: 75.6
+
+File: swave/cross_section_6.000E-02_ratio_5.000E-03_repeat_9.out
+N0 = 1000, n0 = 1.86E7 cm^-2,  beta = 0.26E7 cm^2 s^-1
+Slope: -5.03
+Total number of collisions: 51828
+Number of collisions to thermalize: (2.7, 5.2)
+Mean Collision Rate: 73.5
+
+File: swave/cross_section_6.000E-02_ratio_6.667E-03_repeat_0.out
+N0 = 1000, n0 = 1.99E7 cm^-2,  beta = 0.33E7 cm^2 s^-1
+Slope: -5.53
+Total number of collisions: 50736
+Number of collisions to thermalize: (1.4, 26.0)
+Mean Collision Rate: 77.8
+
+File: swave/cross_section_6.000E-02_ratio_6.667E-03_repeat_1.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.29E7 cm^2 s^-1
+Slope: -6.20
+Total number of collisions: 51004
+Number of collisions to thermalize: (1.6, 3.8)
+Mean Collision Rate: 74.3
+
+File: swave/cross_section_6.000E-02_ratio_6.667E-03_repeat_2.out
+N0 = 1000, n0 = 1.80E7 cm^-2,  beta = 0.29E7 cm^2 s^-1
+Slope: -6.13
+Total number of collisions: 49778
+Number of collisions to thermalize: (1.6, 3.7)
+Mean Collision Rate: 72.7
+
+File: swave/cross_section_6.000E-02_ratio_6.667E-03_repeat_3.out
+N0 = 1000, n0 = 1.92E7 cm^-2,  beta = 0.30E7 cm^2 s^-1
+Slope: -8.43
+Total number of collisions: 50348
+Number of collisions to thermalize: (1.4, 2.7)
+Mean Collision Rate: 75.4
+
+File: swave/cross_section_6.000E-02_ratio_6.667E-03_repeat_4.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.27E7 cm^2 s^-1
+Slope: -9.82
+Total number of collisions: 49822
+Number of collisions to thermalize: (1.8, 2.7)
+Mean Collision Rate: 73.9
+
+File: swave/cross_section_6.000E-02_ratio_6.667E-03_repeat_5.out
+N0 = 1000, n0 = 1.85E7 cm^-2,  beta = 0.29E7 cm^2 s^-1
+Slope: -14.13
+Total number of collisions: 50456
+Number of collisions to thermalize: (4.0, 5.6)
+Mean Collision Rate: 76.7
+
+File: swave/cross_section_6.000E-02_ratio_6.667E-03_repeat_6.out
+N0 = 998, n0 = 1.93E7 cm^-2,  beta = 0.31E7 cm^2 s^-1
+Slope: -7.14
+Total number of collisions: 50238
+Number of collisions to thermalize: (75.2, 2.3)
+Mean Collision Rate: 78.0
+
+File: swave/cross_section_6.000E-02_ratio_6.667E-03_repeat_7.out
+N0 = 1000, n0 = 1.82E7 cm^-2,  beta = 0.35E7 cm^2 s^-1
+Slope: -6.31
+Total number of collisions: 47014
+Number of collisions to thermalize: (3.4, 62.0)
+Mean Collision Rate: 72.0
+
+File: swave/cross_section_6.000E-02_ratio_6.667E-03_repeat_8.out
+N0 = 1000, n0 = 1.97E7 cm^-2,  beta = 0.30E7 cm^2 s^-1
+Slope: -7.02
+Total number of collisions: 50912
+Number of collisions to thermalize: (1.3, 6.4)
+Mean Collision Rate: 76.4
+
+File: swave/cross_section_6.000E-02_ratio_6.667E-03_repeat_9.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.28E7 cm^2 s^-1
+Slope: -7.51
+Total number of collisions: 51800
+Number of collisions to thermalize: (1.7, 3.1)
+Mean Collision Rate: 74.0
+
+File: swave/cross_section_6.800E-02_ratio_0.000E+00_repeat_0.out
+N0 = 1000, n0 = 1.96E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 88192
+Number of collisions to thermalize: (2.0, 1.9)
+Mean Collision Rate: 88.1
+
+File: swave/cross_section_6.800E-02_ratio_0.000E+00_repeat_1.out
+N0 = 1000, n0 = 1.82E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 85402
+Number of collisions to thermalize: (1.5, 1.5)
+Mean Collision Rate: 85.4
+
+File: swave/cross_section_6.800E-02_ratio_0.000E+00_repeat_2.out
+N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 86712
+Number of collisions to thermalize: (3.8, 3.9)
+Mean Collision Rate: 86.6
+
+File: swave/cross_section_6.800E-02_ratio_0.000E+00_repeat_3.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: 0.00
+Total number of collisions: 87350
+Number of collisions to thermalize: (2.6, 2.6)
+Mean Collision Rate: 87.3
+
+File: swave/cross_section_6.800E-02_ratio_0.000E+00_repeat_4.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 85846
+Number of collisions to thermalize: (3.4, 3.5)
+Mean Collision Rate: 85.7
+
+File: swave/cross_section_6.800E-02_ratio_0.000E+00_repeat_5.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: 0.00
+Total number of collisions: 86732
+Number of collisions to thermalize: (2.2, 2.1)
+Mean Collision Rate: 86.6
+
+File: swave/cross_section_6.800E-02_ratio_0.000E+00_repeat_6.out
+N0 = 998, n0 = 1.88E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 86926
+Number of collisions to thermalize: (2.0, 1.8)
+Mean Collision Rate: 86.9
+
+File: swave/cross_section_6.800E-02_ratio_0.000E+00_repeat_7.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: 0.00
+Total number of collisions: 85982
+Number of collisions to thermalize: (2.5, 2.3)
+Mean Collision Rate: 85.7
+
+File: swave/cross_section_6.800E-02_ratio_0.000E+00_repeat_8.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: 0.00
+Total number of collisions: 85744
+Number of collisions to thermalize: (2.5, 2.4)
+Mean Collision Rate: 85.7
+
+File: swave/cross_section_6.800E-02_ratio_0.000E+00_repeat_9.out
+N0 = 1000, n0 = 1.90E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 87644
+Number of collisions to thermalize: (2.6, 2.5)
+Mean Collision Rate: 87.7
+
+File: swave/cross_section_6.800E-02_ratio_1.000E-02_repeat_0.out
+N0 = 1000, n0 = 1.98E7 cm^-2,  beta = 0.53E7 cm^2 s^-1
+Slope: -5.92
+Total number of collisions: 45658
+Number of collisions to thermalize: (80.5, 15.0)
+Mean Collision Rate: 83.3
+
+File: swave/cross_section_6.800E-02_ratio_1.000E-02_repeat_1.out
+N0 = 1000, n0 = 1.91E7 cm^-2,  beta = 0.50E7 cm^2 s^-1
+Slope: -10.00
+Total number of collisions: 45588
+Number of collisions to thermalize: (84.4, 3.7)
+Mean Collision Rate: 87.5
+
+File: swave/cross_section_6.800E-02_ratio_1.000E-02_repeat_2.out
+N0 = 998, n0 = 1.83E7 cm^-2,  beta = 0.54E7 cm^2 s^-1
+Slope: -9.58
+Total number of collisions: 43678
+Number of collisions to thermalize: (1.6, 2.6)
+Mean Collision Rate: 82.1
+
+File: swave/cross_section_6.800E-02_ratio_1.000E-02_repeat_3.out
+N0 = 1000, n0 = 1.83E7 cm^-2,  beta = 0.51E7 cm^2 s^-1
+Slope: -7.20
+Total number of collisions: 46438
+Number of collisions to thermalize: (1.6, 6.4)
+Mean Collision Rate: 83.2
+
+File: swave/cross_section_6.800E-02_ratio_1.000E-02_repeat_4.out
+N0 = 998, n0 = 1.90E7 cm^-2,  beta = 0.45E7 cm^2 s^-1
+Slope: -8.98
+Total number of collisions: 47402
+Number of collisions to thermalize: (1.8, 55.1)
+Mean Collision Rate: 85.6
+
+File: swave/cross_section_6.800E-02_ratio_1.000E-02_repeat_5.out
+N0 = 1000, n0 = 1.91E7 cm^-2,  beta = 0.55E7 cm^2 s^-1
+Slope: -8.56
+Total number of collisions: 45474
+Number of collisions to thermalize: (1.9, 3.5)
+Mean Collision Rate: 89.1
+
+File: swave/cross_section_6.800E-02_ratio_1.000E-02_repeat_6.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.51E7 cm^2 s^-1
+Slope: -10.45
+Total number of collisions: 44346
+Number of collisions to thermalize: (1.7, 4.9)
+Mean Collision Rate: 83.0
+
+File: swave/cross_section_6.800E-02_ratio_1.000E-02_repeat_7.out
+N0 = 998, n0 = 1.83E7 cm^-2,  beta = 0.56E7 cm^2 s^-1
+Slope: -7.97
+Total number of collisions: 45820
+Number of collisions to thermalize: (79.6, 5.5)
+Mean Collision Rate: 82.5
+
+File: swave/cross_section_6.800E-02_ratio_1.000E-02_repeat_8.out
+N0 = 1000, n0 = 1.90E7 cm^-2,  beta = 0.42E7 cm^2 s^-1
+Slope: -7.16
+Total number of collisions: 49356
+Number of collisions to thermalize: (2.9, 6.7)
+Mean Collision Rate: 84.5
+
+File: swave/cross_section_6.800E-02_ratio_1.000E-02_repeat_9.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.53E7 cm^2 s^-1
+Slope: -14.71
+Total number of collisions: 46798
+Number of collisions to thermalize: (2.1, 3.1)
+Mean Collision Rate: 89.3
+
+File: swave/cross_section_6.800E-02_ratio_2.000E-02_repeat_0.out
+N0 = 1000, n0 = 1.81E7 cm^-2,  beta = 0.93E7 cm^2 s^-1
+Slope: -7.99
+Total number of collisions: 31174
+Number of collisions to thermalize: (77.1, 4.2)
+Mean Collision Rate: 79.8
+
+File: swave/cross_section_6.800E-02_ratio_2.000E-02_repeat_1.out
+N0 = 998, n0 = 1.98E7 cm^-2,  beta = 1.00E7 cm^2 s^-1
+Slope: -10.53
+Total number of collisions: 32632
+Number of collisions to thermalize: (1.5, 7.9)
+Mean Collision Rate: 87.4
+
+File: swave/cross_section_6.800E-02_ratio_2.000E-02_repeat_2.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 1.05E7 cm^2 s^-1
+Slope: -5.96
+Total number of collisions: 30590
+Number of collisions to thermalize: (78.9, 14.7)
+Mean Collision Rate: 81.8
+
+File: swave/cross_section_6.800E-02_ratio_2.000E-02_repeat_3.out
+N0 = 1000, n0 = 1.90E7 cm^-2,  beta = 1.03E7 cm^2 s^-1
+Slope: -9.23
+Total number of collisions: 30664
+Number of collisions to thermalize: (78.9, 4.1)
+Mean Collision Rate: 81.8
+
+File: swave/cross_section_6.800E-02_ratio_2.000E-02_repeat_4.out
+N0 = 1000, n0 = 1.85E7 cm^-2,  beta = 1.04E7 cm^2 s^-1
+Slope: -8.49
+Total number of collisions: 30744
+Number of collisions to thermalize: (1.6, 21.9)
+Mean Collision Rate: 78.9
+
+File: swave/cross_section_6.800E-02_ratio_2.000E-02_repeat_5.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 1.04E7 cm^2 s^-1
+Slope: -8.52
+Total number of collisions: 30750
+Number of collisions to thermalize: (77.9, 7.2)
+Mean Collision Rate: 80.7
+
+File: swave/cross_section_6.800E-02_ratio_2.000E-02_repeat_6.out
+N0 = 1000, n0 = 1.85E7 cm^-2,  beta = 0.94E7 cm^2 s^-1
+Slope: -15.03
+Total number of collisions: 31316
+Number of collisions to thermalize: (2.4, 4.8)
+Mean Collision Rate: 78.4
+
+File: swave/cross_section_6.800E-02_ratio_2.000E-02_repeat_7.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.92E7 cm^2 s^-1
+Slope: -7.42
+Total number of collisions: 32418
+Number of collisions to thermalize: (81.4, 5.3)
+Mean Collision Rate: 84.5
+
+File: swave/cross_section_6.800E-02_ratio_2.000E-02_repeat_8.out
+N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.95E7 cm^2 s^-1
+Slope: -9.86
+Total number of collisions: 32762
+Number of collisions to thermalize: (79.8, 5.7)
+Mean Collision Rate: 82.7
+
+File: swave/cross_section_6.800E-02_ratio_2.000E-02_repeat_9.out
+N0 = 1000, n0 = 1.90E7 cm^-2,  beta = 1.01E7 cm^2 s^-1
+Slope: -6.55
+Total number of collisions: 32070
+Number of collisions to thermalize: (2.5, 19.3)
+Mean Collision Rate: 81.4
+
+File: swave/cross_section_6.800E-02_ratio_4.000E-03_repeat_0.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.21E7 cm^2 s^-1
+Slope: -6.00
+Total number of collisions: 64684
+Number of collisions to thermalize: (1.6, 3.8)
+Mean Collision Rate: 86.8
+
+File: swave/cross_section_6.800E-02_ratio_4.000E-03_repeat_1.out
+N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.21E7 cm^2 s^-1
+Slope: -8.55
+Total number of collisions: 62894
+Number of collisions to thermalize: (2.3, 5.0)
+Mean Collision Rate: 83.5
+
+File: swave/cross_section_6.800E-02_ratio_4.000E-03_repeat_2.out
+N0 = 1000, n0 = 1.90E7 cm^-2,  beta = 0.22E7 cm^2 s^-1
+Slope: -4.92
+Total number of collisions: 64364
+Number of collisions to thermalize: (2.1, 4.6)
+Mean Collision Rate: 86.6
+
+File: swave/cross_section_6.800E-02_ratio_4.000E-03_repeat_3.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.24E7 cm^2 s^-1
+Slope: -5.87
+Total number of collisions: 62096
+Number of collisions to thermalize: (2.3, 7.0)
+Mean Collision Rate: 88.7
+
+File: swave/cross_section_6.800E-02_ratio_4.000E-03_repeat_4.out
+N0 = 1000, n0 = 1.91E7 cm^-2,  beta = 0.22E7 cm^2 s^-1
+Slope: -5.84
+Total number of collisions: 63350
+Number of collisions to thermalize: (2.1, 8.9)
+Mean Collision Rate: 85.1
+
+File: swave/cross_section_6.800E-02_ratio_4.000E-03_repeat_5.out
+N0 = 1000, n0 = 1.90E7 cm^-2,  beta = 0.21E7 cm^2 s^-1
+Slope: -5.67
+Total number of collisions: 64510
+Number of collisions to thermalize: (1.7, 3.1)
+Mean Collision Rate: 86.0
+
+File: swave/cross_section_6.800E-02_ratio_4.000E-03_repeat_6.out
+N0 = 1000, n0 = 1.95E7 cm^-2,  beta = 0.23E7 cm^2 s^-1
+Slope: -6.37
+Total number of collisions: 63858
+Number of collisions to thermalize: (2.1, 4.7)
+Mean Collision Rate: 88.4
+
+File: swave/cross_section_6.800E-02_ratio_4.000E-03_repeat_7.out
+N0 = 1000, n0 = 1.84E7 cm^-2,  beta = 0.18E7 cm^2 s^-1
+Slope: -9.29
+Total number of collisions: 64566
+Number of collisions to thermalize: (2.1, 2.5)
+Mean Collision Rate: 84.0
+
+File: swave/cross_section_6.800E-02_ratio_4.000E-03_repeat_8.out
+N0 = 998, n0 = 1.93E7 cm^-2,  beta = 0.18E7 cm^2 s^-1
+Slope: -9.38
+Total number of collisions: 65254
+Number of collisions to thermalize: (6.0, 6.5)
+Mean Collision Rate: 84.9
+
+File: swave/cross_section_6.800E-02_ratio_4.000E-03_repeat_9.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.20E7 cm^2 s^-1
+Slope: -9.91
+Total number of collisions: 63058
+Number of collisions to thermalize: (2.5, 4.0)
+Mean Collision Rate: 85.2
+
+File: swave/cross_section_6.800E-02_ratio_5.000E-03_repeat_0.out
+N0 = 1000, n0 = 1.92E7 cm^-2,  beta = 0.27E7 cm^2 s^-1
+Slope: -7.12
+Total number of collisions: 59208
+Number of collisions to thermalize: (2.6, 4.5)
+Mean Collision Rate: 84.6
+
+File: swave/cross_section_6.800E-02_ratio_5.000E-03_repeat_1.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.25E7 cm^2 s^-1
+Slope: -8.16
+Total number of collisions: 59548
+Number of collisions to thermalize: (1.6, 3.1)
+Mean Collision Rate: 84.2
+
+File: swave/cross_section_6.800E-02_ratio_5.000E-03_repeat_2.out
+N0 = 1000, n0 = 1.86E7 cm^-2,  beta = 0.30E7 cm^2 s^-1
+Slope: -7.79
+Total number of collisions: 58576
+Number of collisions to thermalize: (2.6, 7.4)
+Mean Collision Rate: 87.3
+
+File: swave/cross_section_6.800E-02_ratio_5.000E-03_repeat_3.out
+N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.27E7 cm^2 s^-1
+Slope: -8.43
+Total number of collisions: 60344
+Number of collisions to thermalize: (1.9, 2.9)
+Mean Collision Rate: 85.9
+
+File: swave/cross_section_6.800E-02_ratio_5.000E-03_repeat_4.out
+N0 = 1000, n0 = 1.97E7 cm^-2,  beta = 0.23E7 cm^2 s^-1
+Slope: -8.02
+Total number of collisions: 61432
+Number of collisions to thermalize: (3.1, 5.9)
+Mean Collision Rate: 85.4
+
+File: swave/cross_section_6.800E-02_ratio_5.000E-03_repeat_5.out
+N0 = 1000, n0 = 1.95E7 cm^-2,  beta = 0.29E7 cm^2 s^-1
+Slope: -4.93
+Total number of collisions: 59756
+Number of collisions to thermalize: (1.6, 4.8)
+Mean Collision Rate: 85.1
+
+File: swave/cross_section_6.800E-02_ratio_5.000E-03_repeat_6.out
+N0 = 1000, n0 = 1.79E7 cm^-2,  beta = 0.25E7 cm^2 s^-1
+Slope: -11.13
+Total number of collisions: 57806
+Number of collisions to thermalize: (1.7, 2.7)
+Mean Collision Rate: 82.8
+
+File: swave/cross_section_6.800E-02_ratio_5.000E-03_repeat_7.out
+N0 = 1000, n0 = 1.95E7 cm^-2,  beta = 0.27E7 cm^2 s^-1
+Slope: -6.06
+Total number of collisions: 59306
+Number of collisions to thermalize: (1.6, 3.2)
+Mean Collision Rate: 85.7
+
+File: swave/cross_section_6.800E-02_ratio_5.000E-03_repeat_8.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.27E7 cm^2 s^-1
+Slope: -8.19
+Total number of collisions: 59408
+Number of collisions to thermalize: (1.8, 3.2)
+Mean Collision Rate: 85.1
+
+File: swave/cross_section_6.800E-02_ratio_5.000E-03_repeat_9.out
+N0 = 1000, n0 = 2.06E7 cm^-2,  beta = 0.31E7 cm^2 s^-1
+Slope: -4.77
+Total number of collisions: 57858
+Number of collisions to thermalize: (84.5, 4.0)
+Mean Collision Rate: 87.8
+
+File: swave/cross_section_6.800E-02_ratio_6.667E-03_repeat_0.out
+N0 = 1000, n0 = 1.86E7 cm^-2,  beta = 0.35E7 cm^2 s^-1
+Slope: -6.13
+Total number of collisions: 54558
+Number of collisions to thermalize: (1.5, 8.9)
+Mean Collision Rate: 84.9
+
+File: swave/cross_section_6.800E-02_ratio_6.667E-03_repeat_1.out
+N0 = 1000, n0 = 1.96E7 cm^-2,  beta = 0.35E7 cm^2 s^-1
+Slope: -6.35
+Total number of collisions: 54746
+Number of collisions to thermalize: (1.6, 4.9)
+Mean Collision Rate: 84.7
+
+File: swave/cross_section_6.800E-02_ratio_6.667E-03_repeat_2.out
+N0 = 1000, n0 = 1.85E7 cm^-2,  beta = 0.31E7 cm^2 s^-1
+Slope: -9.86
+Total number of collisions: 55630
+Number of collisions to thermalize: (1.5, 4.0)
+Mean Collision Rate: 84.7
+
+File: swave/cross_section_6.800E-02_ratio_6.667E-03_repeat_3.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.32E7 cm^2 s^-1
+Slope: -11.08
+Total number of collisions: 53898
+Number of collisions to thermalize: (3.0, 5.1)
+Mean Collision Rate: 83.4
+
+File: swave/cross_section_6.800E-02_ratio_6.667E-03_repeat_4.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.35E7 cm^2 s^-1
+Slope: -9.37
+Total number of collisions: 54328
+Number of collisions to thermalize: (2.1, 61.0)
+Mean Collision Rate: 85.4
+
+File: swave/cross_section_6.800E-02_ratio_6.667E-03_repeat_5.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.34E7 cm^2 s^-1
+Slope: -8.98
+Total number of collisions: 52870
+Number of collisions to thermalize: (3.3, 9.3)
+Mean Collision Rate: 82.1
+
+File: swave/cross_section_6.800E-02_ratio_6.667E-03_repeat_6.out
+N0 = 1000, n0 = 1.95E7 cm^-2,  beta = 0.34E7 cm^2 s^-1
+Slope: -9.75
+Total number of collisions: 56228
+Number of collisions to thermalize: (1.6, 3.3)
+Mean Collision Rate: 89.0
+
+File: swave/cross_section_6.800E-02_ratio_6.667E-03_repeat_7.out
+N0 = 1000, n0 = 1.94E7 cm^-2,  beta = 0.38E7 cm^2 s^-1
+Slope: -6.94
+Total number of collisions: 54640
+Number of collisions to thermalize: (1.5, 2.6)
+Mean Collision Rate: 86.8
+
+File: swave/cross_section_6.800E-02_ratio_6.667E-03_repeat_8.out
+N0 = 1000, n0 = 1.83E7 cm^-2,  beta = 0.38E7 cm^2 s^-1
+Slope: -6.08
+Total number of collisions: 53446
+Number of collisions to thermalize: (80.1, 3.0)
+Mean Collision Rate: 83.1
+
+File: swave/cross_section_6.800E-02_ratio_6.667E-03_repeat_9.out
+N0 = 1000, n0 = 1.82E7 cm^-2,  beta = 0.35E7 cm^2 s^-1
+Slope: -5.88
+Total number of collisions: 53062
+Number of collisions to thermalize: (2.3, 6.5)
+Mean Collision Rate: 83.3
+
+File: swave/cross_section_7.600E-02_ratio_0.000E+00_repeat_0.out
+N0 = 1000, n0 = 1.81E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: 0.00
+Total number of collisions: 95160
+Number of collisions to thermalize: (3.1, 3.2)
+Mean Collision Rate: 95.2
+
+File: swave/cross_section_7.600E-02_ratio_0.000E+00_repeat_1.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 97562
+Number of collisions to thermalize: (2.3, 2.5)
+Mean Collision Rate: 97.7
+
+File: swave/cross_section_7.600E-02_ratio_0.000E+00_repeat_2.out
+N0 = 1000, n0 = 1.95E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: 0.00
+Total number of collisions: 98856
+Number of collisions to thermalize: (3.3, 3.3)
+Mean Collision Rate: 98.8
+
+File: swave/cross_section_7.600E-02_ratio_0.000E+00_repeat_3.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 97444
+Number of collisions to thermalize: (3.2, 3.1)
+Mean Collision Rate: 97.6
+
+File: swave/cross_section_7.600E-02_ratio_0.000E+00_repeat_4.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 97160
+Number of collisions to thermalize: (1.8, 1.9)
+Mean Collision Rate: 97.2
+
+File: swave/cross_section_7.600E-02_ratio_0.000E+00_repeat_5.out
+N0 = 1000, n0 = 1.86E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: 0.00
+Total number of collisions: 96178
+Number of collisions to thermalize: (3.6, 3.4)
+Mean Collision Rate: 96.0
+
+File: swave/cross_section_7.600E-02_ratio_0.000E+00_repeat_6.out
+N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: 0.00
+Total number of collisions: 96980
+Number of collisions to thermalize: (2.4, 2.4)
+Mean Collision Rate: 96.8
+
+File: swave/cross_section_7.600E-02_ratio_0.000E+00_repeat_7.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 96514
+Number of collisions to thermalize: (3.0, 3.1)
+Mean Collision Rate: 96.4
+
+File: swave/cross_section_7.600E-02_ratio_0.000E+00_repeat_8.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: 0.00
+Total number of collisions: 97154
+Number of collisions to thermalize: (7.2, 7.1)
+Mean Collision Rate: 97.1
+
+File: swave/cross_section_7.600E-02_ratio_0.000E+00_repeat_9.out
+N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 98824
+Number of collisions to thermalize: (2.1, 2.1)
+Mean Collision Rate: 98.9
+
+File: swave/cross_section_7.600E-02_ratio_1.000E-02_repeat_0.out
+N0 = 1000, n0 = 1.84E7 cm^-2,  beta = 0.57E7 cm^2 s^-1
+Slope: -7.21
+Total number of collisions: 50416
+Number of collisions to thermalize: (90.6, 10.9)
+Mean Collision Rate: 93.9
+
+File: swave/cross_section_7.600E-02_ratio_1.000E-02_repeat_1.out
+N0 = 1000, n0 = 1.86E7 cm^-2,  beta = 0.68E7 cm^2 s^-1
+Slope: -7.35
+Total number of collisions: 44312
+Number of collisions to thermalize: (1.7, 12.7)
+Mean Collision Rate: 89.4
+
+File: swave/cross_section_7.600E-02_ratio_1.000E-02_repeat_2.out
+N0 = 1000, n0 = 1.96E7 cm^-2,  beta = 0.68E7 cm^2 s^-1
+Slope: -5.23
+Total number of collisions: 45876
+Number of collisions to thermalize: (89.7, 21.3)
+Mean Collision Rate: 92.9
+
+File: swave/cross_section_7.600E-02_ratio_1.000E-02_repeat_3.out
+N0 = 1000, n0 = 2.05E7 cm^-2,  beta = 0.54E7 cm^2 s^-1
+Slope: -5.70
+Total number of collisions: 50830
+Number of collisions to thermalize: (93.4, 93.4)
+Mean Collision Rate: 97.0
+
+File: swave/cross_section_7.600E-02_ratio_1.000E-02_repeat_4.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.56E7 cm^2 s^-1
+Slope: -6.34
+Total number of collisions: 49876
+Number of collisions to thermalize: (1.6, 15.2)
+Mean Collision Rate: 93.2
+
+File: swave/cross_section_7.600E-02_ratio_1.000E-02_repeat_5.out
+N0 = 1000, n0 = 1.91E7 cm^-2,  beta = 0.67E7 cm^2 s^-1
+Slope: -7.13
+Total number of collisions: 46030
+Number of collisions to thermalize: (88.8, 4.9)
+Mean Collision Rate: 92.0
+
+File: swave/cross_section_7.600E-02_ratio_1.000E-02_repeat_6.out
+N0 = 998, n0 = 1.96E7 cm^-2,  beta = 0.61E7 cm^2 s^-1
+Slope: -7.02
+Total number of collisions: 48216
+Number of collisions to thermalize: (94.7, 2.9)
+Mean Collision Rate: 98.2
+
+File: swave/cross_section_7.600E-02_ratio_1.000E-02_repeat_7.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.57E7 cm^2 s^-1
+Slope: -9.82
+Total number of collisions: 47188
+Number of collisions to thermalize: (1.6, 3.8)
+Mean Collision Rate: 92.1
+
+File: swave/cross_section_7.600E-02_ratio_1.000E-02_repeat_8.out
+N0 = 998, n0 = 1.88E7 cm^-2,  beta = 0.58E7 cm^2 s^-1
+Slope: -11.86
+Total number of collisions: 48300
+Number of collisions to thermalize: (4.8, 7.3)
+Mean Collision Rate: 95.5
+
+File: swave/cross_section_7.600E-02_ratio_1.000E-02_repeat_9.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.56E7 cm^2 s^-1
+Slope: -7.23
+Total number of collisions: 50208
+Number of collisions to thermalize: (1.7, 14.2)
+Mean Collision Rate: 96.3
+
+File: swave/cross_section_7.600E-02_ratio_2.000E-02_repeat_0.out
+N0 = 1000, n0 = 1.90E7 cm^-2,  beta = 1.15E7 cm^2 s^-1
+Slope: -6.88
+Total number of collisions: 32338
+Number of collisions to thermalize: (29.2, 88.3)
+Mean Collision Rate: 91.4
+
+File: swave/cross_section_7.600E-02_ratio_2.000E-02_repeat_1.out
+N0 = 1000, n0 = 1.78E7 cm^-2,  beta = 1.18E7 cm^2 s^-1
+Slope: -6.92
+Total number of collisions: 31252
+Number of collisions to thermalize: (85.0, 60.8)
+Mean Collision Rate: 88.0
+
+File: swave/cross_section_7.600E-02_ratio_2.000E-02_repeat_2.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 1.23E7 cm^2 s^-1
+Slope: -8.19
+Total number of collisions: 31094
+Number of collisions to thermalize: (85.5, 20.5)
+Mean Collision Rate: 88.6
+
+File: swave/cross_section_7.600E-02_ratio_2.000E-02_repeat_3.out
+N0 = 998, n0 = 1.88E7 cm^-2,  beta = 1.05E7 cm^2 s^-1
+Slope: -7.54
+Total number of collisions: 33574
+Number of collisions to thermalize: (86.5, 24.7)
+Mean Collision Rate: 89.6
+
+File: swave/cross_section_7.600E-02_ratio_2.000E-02_repeat_4.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 1.13E7 cm^2 s^-1
+Slope: -7.85
+Total number of collisions: 32634
+Number of collisions to thermalize: (86.6, 8.2)
+Mean Collision Rate: 89.6
+
+File: swave/cross_section_7.600E-02_ratio_2.000E-02_repeat_5.out
+N0 = 1000, n0 = 1.81E7 cm^-2,  beta = 1.04E7 cm^2 s^-1
+Slope: -7.86
+Total number of collisions: 33834
+Number of collisions to thermalize: (86.9, 11.7)
+Mean Collision Rate: 90.0
+
+File: swave/cross_section_7.600E-02_ratio_2.000E-02_repeat_6.out
+N0 = 1000, n0 = 1.98E7 cm^-2,  beta = 1.34E7 cm^2 s^-1
+Slope: -6.44
+Total number of collisions: 30442
+Number of collisions to thermalize: (84.4, 67.9)
+Mean Collision Rate: 87.3
+
+File: swave/cross_section_7.600E-02_ratio_2.000E-02_repeat_7.out
+N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 1.26E7 cm^2 s^-1
+Slope: -9.75
+Total number of collisions: 29980
+Number of collisions to thermalize: (85.2, 5.6)
+Mean Collision Rate: 88.3
+
+File: swave/cross_section_7.600E-02_ratio_2.000E-02_repeat_8.out
+N0 = 1000, n0 = 1.96E7 cm^-2,  beta = 1.19E7 cm^2 s^-1
+Slope: -8.82
+Total number of collisions: 31468
+Number of collisions to thermalize: (85.0, 8.3)
+Mean Collision Rate: 88.1
+
+File: swave/cross_section_7.600E-02_ratio_2.000E-02_repeat_9.out
+N0 = 1000, n0 = 1.92E7 cm^-2,  beta = 1.12E7 cm^2 s^-1
+Slope: -8.58
+Total number of collisions: 33032
+Number of collisions to thermalize: (2.0, 18.8)
+Mean Collision Rate: 90.2
+
+File: swave/cross_section_7.600E-02_ratio_4.000E-03_repeat_0.out
+N0 = 998, n0 = 1.88E7 cm^-2,  beta = 0.22E7 cm^2 s^-1
+Slope: -8.92
+Total number of collisions: 70216
+Number of collisions to thermalize: (2.2, 3.0)
+Mean Collision Rate: 96.3
+
+File: swave/cross_section_7.600E-02_ratio_4.000E-03_repeat_1.out
+N0 = 1000, n0 = 1.96E7 cm^-2,  beta = 0.18E7 cm^2 s^-1
+Slope: -4.72
+Total number of collisions: 74440
+Number of collisions to thermalize: (2.8, 6.5)
+Mean Collision Rate: 96.6
+
+File: swave/cross_section_7.600E-02_ratio_4.000E-03_repeat_2.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.26E7 cm^2 s^-1
+Slope: -5.38
+Total number of collisions: 66602
+Number of collisions to thermalize: (2.3, 3.7)
+Mean Collision Rate: 95.3
+
+File: swave/cross_section_7.600E-02_ratio_4.000E-03_repeat_3.out
+N0 = 1000, n0 = 1.91E7 cm^-2,  beta = 0.24E7 cm^2 s^-1
+Slope: -6.67
+Total number of collisions: 68888
+Number of collisions to thermalize: (1.7, 4.0)
+Mean Collision Rate: 95.2
+
+File: swave/cross_section_7.600E-02_ratio_4.000E-03_repeat_4.out
+N0 = 1000, n0 = 1.84E7 cm^-2,  beta = 0.27E7 cm^2 s^-1
+Slope: -4.46
+Total number of collisions: 66724
+Number of collisions to thermalize: (89.4, 9.2)
+Mean Collision Rate: 92.7
+
+File: swave/cross_section_7.600E-02_ratio_4.000E-03_repeat_5.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.21E7 cm^2 s^-1
+Slope: -6.25
+Total number of collisions: 70466
+Number of collisions to thermalize: (1.8, 2.8)
+Mean Collision Rate: 96.4
+
+File: swave/cross_section_7.600E-02_ratio_4.000E-03_repeat_6.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.23E7 cm^2 s^-1
+Slope: -9.51
+Total number of collisions: 68152
+Number of collisions to thermalize: (2.2, 3.8)
+Mean Collision Rate: 95.6
+
+File: swave/cross_section_7.600E-02_ratio_4.000E-03_repeat_7.out
+N0 = 1000, n0 = 1.82E7 cm^-2,  beta = 0.23E7 cm^2 s^-1
+Slope: -10.55
+Total number of collisions: 66822
+Number of collisions to thermalize: (1.7, 2.1)
+Mean Collision Rate: 92.4
+
+File: swave/cross_section_7.600E-02_ratio_4.000E-03_repeat_8.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.19E7 cm^2 s^-1
+Slope: -6.15
+Total number of collisions: 69936
+Number of collisions to thermalize: (3.0, 4.8)
+Mean Collision Rate: 94.0
+
+File: swave/cross_section_7.600E-02_ratio_4.000E-03_repeat_9.out
+N0 = 1000, n0 = 1.82E7 cm^-2,  beta = 0.24E7 cm^2 s^-1
+Slope: -8.37
+Total number of collisions: 66678
+Number of collisions to thermalize: (1.9, 3.3)
+Mean Collision Rate: 95.7
+
+File: swave/cross_section_7.600E-02_ratio_5.000E-03_repeat_0.out
+N0 = 1000, n0 = 1.92E7 cm^-2,  beta = 0.27E7 cm^2 s^-1
+Slope: -7.17
+Total number of collisions: 67038
+Number of collisions to thermalize: (1.6, 2.9)
+Mean Collision Rate: 98.3
+
+File: swave/cross_section_7.600E-02_ratio_5.000E-03_repeat_1.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.27E7 cm^2 s^-1
+Slope: -11.09
+Total number of collisions: 65062
+Number of collisions to thermalize: (1.7, 2.5)
+Mean Collision Rate: 96.0
+
+File: swave/cross_section_7.600E-02_ratio_5.000E-03_repeat_2.out
+N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.33E7 cm^2 s^-1
+Slope: -8.16
+Total number of collisions: 62202
+Number of collisions to thermalize: (2.6, 5.2)
+Mean Collision Rate: 96.4
+
+File: swave/cross_section_7.600E-02_ratio_5.000E-03_repeat_3.out
+N0 = 1000, n0 = 1.95E7 cm^-2,  beta = 0.28E7 cm^2 s^-1
+Slope: -8.23
+Total number of collisions: 66372
+Number of collisions to thermalize: (1.7, 5.2)
+Mean Collision Rate: 97.4
+
+File: swave/cross_section_7.600E-02_ratio_5.000E-03_repeat_4.out
+N0 = 1000, n0 = 1.80E7 cm^-2,  beta = 0.26E7 cm^2 s^-1
+Slope: -5.16
+Total number of collisions: 63822
+Number of collisions to thermalize: (2.3, 3.3)
+Mean Collision Rate: 91.1
+
+File: swave/cross_section_7.600E-02_ratio_5.000E-03_repeat_5.out
+N0 = 1000, n0 = 1.90E7 cm^-2,  beta = 0.27E7 cm^2 s^-1
+Slope: -7.34
+Total number of collisions: 64756
+Number of collisions to thermalize: (1.8, 4.6)
+Mean Collision Rate: 92.6
+
+File: swave/cross_section_7.600E-02_ratio_5.000E-03_repeat_6.out
+N0 = 1000, n0 = 1.95E7 cm^-2,  beta = 0.26E7 cm^2 s^-1
+Slope: -6.47
+Total number of collisions: 66926
+Number of collisions to thermalize: (3.1, 7.2)
+Mean Collision Rate: 96.6
+
+File: swave/cross_section_7.600E-02_ratio_5.000E-03_repeat_7.out
+N0 = 1000, n0 = 1.91E7 cm^-2,  beta = 0.27E7 cm^2 s^-1
+Slope: -16.13
+Total number of collisions: 65096
+Number of collisions to thermalize: (1.7, 3.8)
+Mean Collision Rate: 96.2
+
+File: swave/cross_section_7.600E-02_ratio_5.000E-03_repeat_8.out
+N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.36E7 cm^2 s^-1
+Slope: -5.44
+Total number of collisions: 60216
+Number of collisions to thermalize: (91.3, 4.7)
+Mean Collision Rate: 94.6
+
+File: swave/cross_section_7.600E-02_ratio_5.000E-03_repeat_9.out
+N0 = 1000, n0 = 2.01E7 cm^-2,  beta = 0.30E7 cm^2 s^-1
+Slope: -6.58
+Total number of collisions: 65116
+Number of collisions to thermalize: (1.7, 3.9)
+Mean Collision Rate: 98.2
+
+File: swave/cross_section_7.600E-02_ratio_6.667E-03_repeat_0.out
+N0 = 1000, n0 = 1.91E7 cm^-2,  beta = 0.44E7 cm^2 s^-1
+Slope: -6.06
+Total number of collisions: 55360
+Number of collisions to thermalize: (91.4, 7.4)
+Mean Collision Rate: 94.9
+
+File: swave/cross_section_7.600E-02_ratio_6.667E-03_repeat_1.out
+N0 = 1000, n0 = 1.79E7 cm^-2,  beta = 0.33E7 cm^2 s^-1
+Slope: -11.97
+Total number of collisions: 58520
+Number of collisions to thermalize: (1.5, 1.7)
+Mean Collision Rate: 92.3
+
+File: swave/cross_section_7.600E-02_ratio_6.667E-03_repeat_2.out
+N0 = 998, n0 = 1.89E7 cm^-2,  beta = 0.41E7 cm^2 s^-1
+Slope: -6.35
+Total number of collisions: 56274
+Number of collisions to thermalize: (89.1, 2.6)
+Mean Collision Rate: 92.4
+
+File: swave/cross_section_7.600E-02_ratio_6.667E-03_repeat_3.out
+N0 = 1000, n0 = 1.81E7 cm^-2,  beta = 0.37E7 cm^2 s^-1
+Slope: -11.20
+Total number of collisions: 57032
+Number of collisions to thermalize: (2.1, 4.0)
+Mean Collision Rate: 91.1
+
+File: swave/cross_section_7.600E-02_ratio_6.667E-03_repeat_4.out
+N0 = 1000, n0 = 1.92E7 cm^-2,  beta = 0.42E7 cm^2 s^-1
+Slope: -7.24
+Total number of collisions: 55070
+Number of collisions to thermalize: (1.6, 8.7)
+Mean Collision Rate: 93.6
+
+File: swave/cross_section_7.600E-02_ratio_6.667E-03_repeat_5.out
+N0 = 1000, n0 = 1.90E7 cm^-2,  beta = 0.41E7 cm^2 s^-1
+Slope: -6.75
+Total number of collisions: 55778
+Number of collisions to thermalize: (1.6, 8.6)
+Mean Collision Rate: 93.0
+
+File: swave/cross_section_7.600E-02_ratio_6.667E-03_repeat_6.out
+N0 = 1000, n0 = 1.85E7 cm^-2,  beta = 0.36E7 cm^2 s^-1
+Slope: -8.92
+Total number of collisions: 57956
+Number of collisions to thermalize: (1.7, 4.7)
+Mean Collision Rate: 92.3
+
+File: swave/cross_section_7.600E-02_ratio_6.667E-03_repeat_7.out
+N0 = 1000, n0 = 1.96E7 cm^-2,  beta = 0.34E7 cm^2 s^-1
+Slope: -13.03
+Total number of collisions: 61848
+Number of collisions to thermalize: (1.8, 1.8)
+Mean Collision Rate: 98.9
+
+File: swave/cross_section_7.600E-02_ratio_6.667E-03_repeat_8.out
+N0 = 1000, n0 = 1.85E7 cm^-2,  beta = 0.41E7 cm^2 s^-1
+Slope: -7.93
+Total number of collisions: 56516
+Number of collisions to thermalize: (2.0, 3.9)
+Mean Collision Rate: 94.4
+
+File: swave/cross_section_7.600E-02_ratio_6.667E-03_repeat_9.out
+N0 = 1000, n0 = 2.02E7 cm^-2,  beta = 0.37E7 cm^2 s^-1
+Slope: -6.58
+Total number of collisions: 60854
+Number of collisions to thermalize: (93.3, 8.2)
+Mean Collision Rate: 96.7
+
+File: swave/cross_section_8.400E-02_ratio_0.000E+00_repeat_0.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: 0.00
+Total number of collisions: 106516
+Number of collisions to thermalize: (1.9, 1.9)
+Mean Collision Rate: 106.5
+
+File: swave/cross_section_8.400E-02_ratio_0.000E+00_repeat_1.out
+N0 = 1000, n0 = 2.00E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: 0.00
+Total number of collisions: 110214
+Number of collisions to thermalize: (2.9, 3.0)
+Mean Collision Rate: 109.9
+
+File: swave/cross_section_8.400E-02_ratio_0.000E+00_repeat_2.out
+N0 = 1000, n0 = 1.84E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: 0.00
+Total number of collisions: 105178
+Number of collisions to thermalize: (1.9, 1.9)
+Mean Collision Rate: 105.3
+
+File: swave/cross_section_8.400E-02_ratio_0.000E+00_repeat_3.out
+N0 = 1000, n0 = 1.86E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 106948
+Number of collisions to thermalize: (1.8, 1.8)
+Mean Collision Rate: 107.2
+
+File: swave/cross_section_8.400E-02_ratio_0.000E+00_repeat_4.out
+N0 = 1000, n0 = 1.96E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: 0.00
+Total number of collisions: 108036
+Number of collisions to thermalize: (2.8, 2.8)
+Mean Collision Rate: 108.2
+
+File: swave/cross_section_8.400E-02_ratio_0.000E+00_repeat_5.out
+N0 = 1000, n0 = 1.90E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: 0.00
+Total number of collisions: 107178
+Number of collisions to thermalize: (3.3, 3.4)
+Mean Collision Rate: 106.9
+
+File: swave/cross_section_8.400E-02_ratio_0.000E+00_repeat_6.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 105206
+Number of collisions to thermalize: (3.2, 3.2)
+Mean Collision Rate: 105.0
+
+File: swave/cross_section_8.400E-02_ratio_0.000E+00_repeat_7.out
+N0 = 1000, n0 = 2.00E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 109328
+Number of collisions to thermalize: (3.9, 3.5)
+Mean Collision Rate: 109.3
+
+File: swave/cross_section_8.400E-02_ratio_0.000E+00_repeat_8.out
+N0 = 1000, n0 = 1.85E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 106538
+Number of collisions to thermalize: (3.9, 3.7)
+Mean Collision Rate: 106.5
+
+File: swave/cross_section_8.400E-02_ratio_0.000E+00_repeat_9.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 104678
+Number of collisions to thermalize: (2.9, 2.8)
+Mean Collision Rate: 104.7
+
+File: swave/cross_section_8.400E-02_ratio_1.000E-02_repeat_0.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.62E7 cm^2 s^-1
+Slope: -7.86
+Total number of collisions: 51524
+Number of collisions to thermalize: (1.8, 9.3)
+Mean Collision Rate: 102.7
+
+File: swave/cross_section_8.400E-02_ratio_1.000E-02_repeat_1.out
+N0 = 1000, n0 = 1.95E7 cm^-2,  beta = 0.64E7 cm^2 s^-1
+Slope: -7.47
+Total number of collisions: 50096
+Number of collisions to thermalize: (104.6, 104.6)
+Mean Collision Rate: 108.4
+
+File: swave/cross_section_8.400E-02_ratio_1.000E-02_repeat_2.out
+N0 = 1000, n0 = 1.83E7 cm^-2,  beta = 0.60E7 cm^2 s^-1
+Slope: -7.90
+Total number of collisions: 52540
+Number of collisions to thermalize: (97.2, 5.8)
+Mean Collision Rate: 100.8
+
+File: swave/cross_section_8.400E-02_ratio_1.000E-02_repeat_3.out
+N0 = 1000, n0 = 1.99E7 cm^-2,  beta = 0.64E7 cm^2 s^-1
+Slope: -11.95
+Total number of collisions: 51264
+Number of collisions to thermalize: (102.9, 4.1)
+Mean Collision Rate: 106.8
+
+File: swave/cross_section_8.400E-02_ratio_1.000E-02_repeat_4.out
+N0 = 1000, n0 = 1.82E7 cm^-2,  beta = 0.72E7 cm^2 s^-1
+Slope: -6.38
+Total number of collisions: 48786
+Number of collisions to thermalize: (95.1, 15.3)
+Mean Collision Rate: 98.6
+
+File: swave/cross_section_8.400E-02_ratio_1.000E-02_repeat_5.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.66E7 cm^2 s^-1
+Slope: -5.79
+Total number of collisions: 48868
+Number of collisions to thermalize: (1.8, 30.7)
+Mean Collision Rate: 101.6
+
+File: swave/cross_section_8.400E-02_ratio_1.000E-02_repeat_6.out
+N0 = 1000, n0 = 1.91E7 cm^-2,  beta = 0.63E7 cm^2 s^-1
+Slope: -5.63
+Total number of collisions: 51440
+Number of collisions to thermalize: (94.4, 41.7)
+Mean Collision Rate: 97.8
+
+File: swave/cross_section_8.400E-02_ratio_1.000E-02_repeat_7.out
+N0 = 1000, n0 = 1.85E7 cm^-2,  beta = 0.62E7 cm^2 s^-1
+Slope: -9.02
+Total number of collisions: 49110
+Number of collisions to thermalize: (98.7, 3.2)
+Mean Collision Rate: 102.3
+
+File: swave/cross_section_8.400E-02_ratio_1.000E-02_repeat_8.out
+N0 = 1000, n0 = 1.82E7 cm^-2,  beta = 0.57E7 cm^2 s^-1
+Slope: -7.45
+Total number of collisions: 53910
+Number of collisions to thermalize: (98.8, 6.5)
+Mean Collision Rate: 102.5
+
+File: swave/cross_section_8.400E-02_ratio_1.000E-02_repeat_9.out
+N0 = 1000, n0 = 1.94E7 cm^-2,  beta = 0.72E7 cm^2 s^-1
+Slope: -6.24
+Total number of collisions: 48714
+Number of collisions to thermalize: (98.8, 13.0)
+Mean Collision Rate: 102.4
+
+File: swave/cross_section_8.400E-02_ratio_2.000E-02_repeat_0.out
+N0 = 998, n0 = 1.83E7 cm^-2,  beta = 1.26E7 cm^2 s^-1
+Slope: -9.07
+Total number of collisions: 33600
+Number of collisions to thermalize: (2.7, 13.1)
+Mean Collision Rate: 96.8
+
+File: swave/cross_section_8.400E-02_ratio_2.000E-02_repeat_1.out
+N0 = 1000, n0 = 1.99E7 cm^-2,  beta = 1.36E7 cm^2 s^-1
+Slope: -5.85
+Total number of collisions: 32584
+Number of collisions to thermalize: (41.3, 33.9)
+Mean Collision Rate: 95.7
+
+File: swave/cross_section_8.400E-02_ratio_2.000E-02_repeat_2.out
+N0 = 1000, n0 = 1.92E7 cm^-2,  beta = 1.43E7 cm^2 s^-1
+Slope: -6.49
+Total number of collisions: 31928
+Number of collisions to thermalize: (92.3, 60.4)
+Mean Collision Rate: 95.5
+
+File: swave/cross_section_8.400E-02_ratio_2.000E-02_repeat_3.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 1.38E7 cm^2 s^-1
+Slope: -8.44
+Total number of collisions: 32236
+Number of collisions to thermalize: (100.1, 20.0)
+Mean Collision Rate: 103.6
+
+File: swave/cross_section_8.400E-02_ratio_2.000E-02_repeat_4.out
+N0 = 1000, n0 = 1.92E7 cm^-2,  beta = 1.36E7 cm^2 s^-1
+Slope: -6.48
+Total number of collisions: 33662
+Number of collisions to thermalize: (96.1, 17.7)
+Mean Collision Rate: 99.6
+
+File: swave/cross_section_8.400E-02_ratio_2.000E-02_repeat_5.out
+N0 = 1000, n0 = 1.84E7 cm^-2,  beta = 1.30E7 cm^2 s^-1
+Slope: -5.18
+Total number of collisions: 34118
+Number of collisions to thermalize: (92.7, 92.7)
+Mean Collision Rate: 96.0
+
+File: swave/cross_section_8.400E-02_ratio_2.000E-02_repeat_6.out
+N0 = 1000, n0 = 1.92E7 cm^-2,  beta = 1.19E7 cm^2 s^-1
+Slope: -9.21
+Total number of collisions: 33726
+Number of collisions to thermalize: (95.2, 10.8)
+Mean Collision Rate: 98.6
+
+File: swave/cross_section_8.400E-02_ratio_2.000E-02_repeat_7.out
+N0 = 1000, n0 = 1.81E7 cm^-2,  beta = 1.22E7 cm^2 s^-1
+Slope: -7.60
+Total number of collisions: 32316
+Number of collisions to thermalize: (87.9, 7.0)
+Mean Collision Rate: 91.0
+
+File: swave/cross_section_8.400E-02_ratio_2.000E-02_repeat_8.out
+N0 = 1000, n0 = 2.06E7 cm^-2,  beta = 1.13E7 cm^2 s^-1
+Slope: -7.63
+Total number of collisions: 36674
+Number of collisions to thermalize: (104.5, 41.3)
+Mean Collision Rate: 108.2
+
+File: swave/cross_section_8.400E-02_ratio_2.000E-02_repeat_9.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 1.25E7 cm^2 s^-1
+Slope: -5.62
+Total number of collisions: 34118
+Number of collisions to thermalize: (91.7, 25.4)
+Mean Collision Rate: 94.9
+
+File: swave/cross_section_8.400E-02_ratio_4.000E-03_repeat_0.out
+N0 = 998, n0 = 1.86E7 cm^-2,  beta = 0.26E7 cm^2 s^-1
+Slope: -11.76
+Total number of collisions: 73566
+Number of collisions to thermalize: (3.3, 4.3)
+Mean Collision Rate: 107.2
+
+File: swave/cross_section_8.400E-02_ratio_4.000E-03_repeat_1.out
+N0 = 1000, n0 = 1.84E7 cm^-2,  beta = 0.23E7 cm^2 s^-1
+Slope: -6.84
+Total number of collisions: 76218
+Number of collisions to thermalize: (2.6, 4.9)
+Mean Collision Rate: 105.0
+
+File: swave/cross_section_8.400E-02_ratio_4.000E-03_repeat_2.out
+N0 = 1000, n0 = 1.92E7 cm^-2,  beta = 0.26E7 cm^2 s^-1
+Slope: -6.49
+Total number of collisions: 74530
+Number of collisions to thermalize: (2.3, 4.3)
+Mean Collision Rate: 105.4
+
+File: swave/cross_section_8.400E-02_ratio_4.000E-03_repeat_3.out
+N0 = 1000, n0 = 1.91E7 cm^-2,  beta = 0.23E7 cm^2 s^-1
+Slope: -7.73
+Total number of collisions: 75720
+Number of collisions to thermalize: (1.9, 3.3)
+Mean Collision Rate: 105.3
+
+File: swave/cross_section_8.400E-02_ratio_4.000E-03_repeat_4.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.28E7 cm^2 s^-1
+Slope: -10.66
+Total number of collisions: 72328
+Number of collisions to thermalize: (2.6, 3.7)
+Mean Collision Rate: 105.8
+
+File: swave/cross_section_8.400E-02_ratio_4.000E-03_repeat_5.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.23E7 cm^2 s^-1
+Slope: -4.87
+Total number of collisions: 75378
+Number of collisions to thermalize: (2.8, 3.6)
+Mean Collision Rate: 107.9
+
+File: swave/cross_section_8.400E-02_ratio_4.000E-03_repeat_6.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.27E7 cm^2 s^-1
+Slope: -6.07
+Total number of collisions: 73710
+Number of collisions to thermalize: (1.9, 11.9)
+Mean Collision Rate: 104.7
+
+File: swave/cross_section_8.400E-02_ratio_4.000E-03_repeat_7.out
+N0 = 1000, n0 = 1.95E7 cm^-2,  beta = 0.24E7 cm^2 s^-1
+Slope: -10.27
+Total number of collisions: 76436
+Number of collisions to thermalize: (104.3, 2.0)
+Mean Collision Rate: 108.0
+
+File: swave/cross_section_8.400E-02_ratio_4.000E-03_repeat_8.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.24E7 cm^2 s^-1
+Slope: -6.68
+Total number of collisions: 77406
+Number of collisions to thermalize: (3.1, 8.0)
+Mean Collision Rate: 107.1
+
+File: swave/cross_section_8.400E-02_ratio_4.000E-03_repeat_9.out
+N0 = 1000, n0 = 1.86E7 cm^-2,  beta = 0.21E7 cm^2 s^-1
+Slope: -7.63
+Total number of collisions: 77202
+Number of collisions to thermalize: (2.0, 4.1)
+Mean Collision Rate: 104.8
+
+File: swave/cross_section_8.400E-02_ratio_5.000E-03_repeat_0.out
+N0 = 1000, n0 = 1.83E7 cm^-2,  beta = 0.30E7 cm^2 s^-1
+Slope: -7.97
+Total number of collisions: 68478
+Number of collisions to thermalize: (2.6, 5.1)
+Mean Collision Rate: 100.8
+
+File: swave/cross_section_8.400E-02_ratio_5.000E-03_repeat_1.out
+N0 = 1000, n0 = 1.86E7 cm^-2,  beta = 0.34E7 cm^2 s^-1
+Slope: -6.96
+Total number of collisions: 65902
+Number of collisions to thermalize: (1.8, 5.0)
+Mean Collision Rate: 100.1
+
+File: swave/cross_section_8.400E-02_ratio_5.000E-03_repeat_2.out
+N0 = 1000, n0 = 1.90E7 cm^-2,  beta = 0.31E7 cm^2 s^-1
+Slope: -7.03
+Total number of collisions: 69172
+Number of collisions to thermalize: (2.2, 8.5)
+Mean Collision Rate: 104.0
+
+File: swave/cross_section_8.400E-02_ratio_5.000E-03_repeat_3.out
+N0 = 998, n0 = 1.92E7 cm^-2,  beta = 0.35E7 cm^2 s^-1
+Slope: -8.55
+Total number of collisions: 66642
+Number of collisions to thermalize: (2.0, 4.9)
+Mean Collision Rate: 107.8
+
+File: swave/cross_section_8.400E-02_ratio_5.000E-03_repeat_4.out
+N0 = 1000, n0 = 1.86E7 cm^-2,  beta = 0.40E7 cm^2 s^-1
+Slope: -7.57
+Total number of collisions: 63260
+Number of collisions to thermalize: (2.0, 5.7)
+Mean Collision Rate: 102.4
+
+File: swave/cross_section_8.400E-02_ratio_5.000E-03_repeat_5.out
+N0 = 1000, n0 = 1.76E7 cm^-2,  beta = 0.30E7 cm^2 s^-1
+Slope: -6.56
+Total number of collisions: 67570
+Number of collisions to thermalize: (1.7, 13.5)
+Mean Collision Rate: 98.3
+
+File: swave/cross_section_8.400E-02_ratio_5.000E-03_repeat_6.out
+N0 = 1000, n0 = 1.96E7 cm^-2,  beta = 0.34E7 cm^2 s^-1
+Slope: -7.63
+Total number of collisions: 68886
+Number of collisions to thermalize: (103.5, 3.2)
+Mean Collision Rate: 107.4
+
+File: swave/cross_section_8.400E-02_ratio_5.000E-03_repeat_7.out
+N0 = 1000, n0 = 1.83E7 cm^-2,  beta = 0.38E7 cm^2 s^-1
+Slope: -5.16
+Total number of collisions: 65328
+Number of collisions to thermalize: (1.8, 22.3)
+Mean Collision Rate: 101.1
+
+File: swave/cross_section_8.400E-02_ratio_5.000E-03_repeat_8.out
+N0 = 1000, n0 = 1.92E7 cm^-2,  beta = 0.28E7 cm^2 s^-1
+Slope: -8.42
+Total number of collisions: 69488
+Number of collisions to thermalize: (1.9, 2.3)
+Mean Collision Rate: 103.6
+
+File: swave/cross_section_8.400E-02_ratio_5.000E-03_repeat_9.out
+N0 = 1000, n0 = 1.86E7 cm^-2,  beta = 0.35E7 cm^2 s^-1
+Slope: -5.45
+Total number of collisions: 67048
+Number of collisions to thermalize: (99.2, 5.9)
+Mean Collision Rate: 102.9
+
+File: swave/cross_section_8.400E-02_ratio_6.667E-03_repeat_0.out
+N0 = 998, n0 = 1.89E7 cm^-2,  beta = 0.41E7 cm^2 s^-1
+Slope: -14.24
+Total number of collisions: 60930
+Number of collisions to thermalize: (1.8, 3.0)
+Mean Collision Rate: 105.8
+
+File: swave/cross_section_8.400E-02_ratio_6.667E-03_repeat_1.out
+N0 = 998, n0 = 1.80E7 cm^-2,  beta = 0.47E7 cm^2 s^-1
+Slope: -10.62
+Total number of collisions: 59006
+Number of collisions to thermalize: (2.5, 3.5)
+Mean Collision Rate: 103.6
+
+File: swave/cross_section_8.400E-02_ratio_6.667E-03_repeat_2.out
+N0 = 1000, n0 = 1.90E7 cm^-2,  beta = 0.49E7 cm^2 s^-1
+Slope: -5.53
+Total number of collisions: 60036
+Number of collisions to thermalize: (104.2, 20.3)
+Mean Collision Rate: 108.2
+
+File: swave/cross_section_8.400E-02_ratio_6.667E-03_repeat_3.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.46E7 cm^2 s^-1
+Slope: -5.85
+Total number of collisions: 60528
+Number of collisions to thermalize: (98.7, 4.6)
+Mean Collision Rate: 102.3
+
+File: swave/cross_section_8.400E-02_ratio_6.667E-03_repeat_4.out
+N0 = 1000, n0 = 1.91E7 cm^-2,  beta = 0.47E7 cm^2 s^-1
+Slope: -5.47
+Total number of collisions: 62060
+Number of collisions to thermalize: (1.7, 22.1)
+Mean Collision Rate: 103.2
+
+File: swave/cross_section_8.400E-02_ratio_6.667E-03_repeat_5.out
+N0 = 1000, n0 = 1.84E7 cm^-2,  beta = 0.40E7 cm^2 s^-1
+Slope: -9.18
+Total number of collisions: 61288
+Number of collisions to thermalize: (1.9, 2.4)
+Mean Collision Rate: 103.7
+
+File: swave/cross_section_8.400E-02_ratio_6.667E-03_repeat_6.out
+N0 = 1000, n0 = 1.91E7 cm^-2,  beta = 0.43E7 cm^2 s^-1
+Slope: -6.86
+Total number of collisions: 61760
+Number of collisions to thermalize: (1.9, 28.6)
+Mean Collision Rate: 104.9
+
+File: swave/cross_section_8.400E-02_ratio_6.667E-03_repeat_7.out
+N0 = 998, n0 = 1.97E7 cm^-2,  beta = 0.44E7 cm^2 s^-1
+Slope: -7.63
+Total number of collisions: 60784
+Number of collisions to thermalize: (101.8, 2.5)
+Mean Collision Rate: 105.5
+
+File: swave/cross_section_8.400E-02_ratio_6.667E-03_repeat_8.out
+N0 = 1000, n0 = 1.92E7 cm^-2,  beta = 0.36E7 cm^2 s^-1
+Slope: -5.15
+Total number of collisions: 67640
+Number of collisions to thermalize: (102.7, 101.4)
+Mean Collision Rate: 106.5
+
+File: swave/cross_section_8.400E-02_ratio_6.667E-03_repeat_9.out
+N0 = 998, n0 = 1.88E7 cm^-2,  beta = 0.46E7 cm^2 s^-1
+Slope: -6.59
+Total number of collisions: 61008
+Number of collisions to thermalize: (101.8, 5.1)
+Mean Collision Rate: 105.6
+
+File: swave/cross_section_9.200E-02_ratio_0.000E+00_repeat_0.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 116744
+Number of collisions to thermalize: (2.2, 2.2)
+Mean Collision Rate: 116.6
+
+File: swave/cross_section_9.200E-02_ratio_0.000E+00_repeat_1.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 118766
+Number of collisions to thermalize: (2.3, 2.1)
+Mean Collision Rate: 118.7
+
+File: swave/cross_section_9.200E-02_ratio_0.000E+00_repeat_2.out
+N0 = 1000, n0 = 2.00E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: 0.00
+Total number of collisions: 120236
+Number of collisions to thermalize: (4.7, 4.8)
+Mean Collision Rate: 120.3
+
+File: swave/cross_section_9.200E-02_ratio_0.000E+00_repeat_3.out
+N0 = 1000, n0 = 1.94E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 117732
+Number of collisions to thermalize: (4.2, 4.4)
+Mean Collision Rate: 117.6
+
+File: swave/cross_section_9.200E-02_ratio_0.000E+00_repeat_4.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: 0.00
+Total number of collisions: 118846
+Number of collisions to thermalize: (4.2, 4.6)
+Mean Collision Rate: 119.1
+
+File: swave/cross_section_9.200E-02_ratio_0.000E+00_repeat_5.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: 0.00
+Total number of collisions: 118246
+Number of collisions to thermalize: (3.9, 3.4)
+Mean Collision Rate: 118.3
+
+File: swave/cross_section_9.200E-02_ratio_0.000E+00_repeat_6.out
+N0 = 998, n0 = 1.88E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: 0.00
+Total number of collisions: 116088
+Number of collisions to thermalize: (3.8, 4.1)
+Mean Collision Rate: 116.1
+
+File: swave/cross_section_9.200E-02_ratio_0.000E+00_repeat_7.out
+N0 = 998, n0 = 1.90E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 117232
+Number of collisions to thermalize: (2.5, 2.5)
+Mean Collision Rate: 117.8
+
+File: swave/cross_section_9.200E-02_ratio_0.000E+00_repeat_8.out
+N0 = 1000, n0 = 1.86E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 115442
+Number of collisions to thermalize: (2.7, 2.7)
+Mean Collision Rate: 115.4
+
+File: swave/cross_section_9.200E-02_ratio_0.000E+00_repeat_9.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.00E7 cm^2 s^-1
+Slope: -0.00
+Total number of collisions: 117690
+Number of collisions to thermalize: (2.8, 2.8)
+Mean Collision Rate: 117.9
+
+File: swave/cross_section_9.200E-02_ratio_1.000E-02_repeat_0.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.69E7 cm^2 s^-1
+Slope: -10.86
+Total number of collisions: 52648
+Number of collisions to thermalize: (111.0, 4.9)
+Mean Collision Rate: 115.0
+
+File: swave/cross_section_9.200E-02_ratio_1.000E-02_repeat_1.out
+N0 = 1000, n0 = 1.97E7 cm^-2,  beta = 0.74E7 cm^2 s^-1
+Slope: -7.65
+Total number of collisions: 53384
+Number of collisions to thermalize: (112.4, 18.6)
+Mean Collision Rate: 116.6
+
+File: swave/cross_section_9.200E-02_ratio_1.000E-02_repeat_2.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.70E7 cm^2 s^-1
+Slope: -9.69
+Total number of collisions: 50864
+Number of collisions to thermalize: (106.5, 5.2)
+Mean Collision Rate: 110.3
+
+File: swave/cross_section_9.200E-02_ratio_1.000E-02_repeat_3.out
+N0 = 1000, n0 = 1.94E7 cm^-2,  beta = 0.66E7 cm^2 s^-1
+Slope: -8.79
+Total number of collisions: 55588
+Number of collisions to thermalize: (110.8, 3.8)
+Mean Collision Rate: 115.0
+
+File: swave/cross_section_9.200E-02_ratio_1.000E-02_repeat_4.out
+N0 = 1000, n0 = 1.91E7 cm^-2,  beta = 0.61E7 cm^2 s^-1
+Slope: -13.31
+Total number of collisions: 56628
+Number of collisions to thermalize: (2.1, 3.6)
+Mean Collision Rate: 116.9
+
+File: swave/cross_section_9.200E-02_ratio_1.000E-02_repeat_5.out
+N0 = 1000, n0 = 1.94E7 cm^-2,  beta = 0.72E7 cm^2 s^-1
+Slope: -8.64
+Total number of collisions: 54404
+Number of collisions to thermalize: (111.3, 8.8)
+Mean Collision Rate: 115.3
+
+File: swave/cross_section_9.200E-02_ratio_1.000E-02_repeat_6.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.77E7 cm^2 s^-1
+Slope: -7.31
+Total number of collisions: 50952
+Number of collisions to thermalize: (103.9, 6.6)
+Mean Collision Rate: 107.7
+
+File: swave/cross_section_9.200E-02_ratio_1.000E-02_repeat_7.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.74E7 cm^2 s^-1
+Slope: -17.74
+Total number of collisions: 51616
+Number of collisions to thermalize: (2.0, 5.5)
+Mean Collision Rate: 115.3
+
+File: swave/cross_section_9.200E-02_ratio_1.000E-02_repeat_8.out
+N0 = 1000, n0 = 2.02E7 cm^-2,  beta = 0.69E7 cm^2 s^-1
+Slope: -7.17
+Total number of collisions: 54572
+Number of collisions to thermalize: (112.0, 15.2)
+Mean Collision Rate: 116.2
+
+File: swave/cross_section_9.200E-02_ratio_1.000E-02_repeat_9.out
+N0 = 1000, n0 = 1.95E7 cm^-2,  beta = 0.69E7 cm^2 s^-1
+Slope: -11.17
+Total number of collisions: 55630
+Number of collisions to thermalize: (2.0, 11.1)
+Mean Collision Rate: 119.4
+
+File: swave/cross_section_9.200E-02_ratio_2.000E-02_repeat_0.out
+N0 = 1000, n0 = 1.85E7 cm^-2,  beta = 1.54E7 cm^2 s^-1
+Slope: -8.21
+Total number of collisions: 33636
+Number of collisions to thermalize: (106.7, 27.8)
+Mean Collision Rate: 110.5
+
+File: swave/cross_section_9.200E-02_ratio_2.000E-02_repeat_1.out
+N0 = 1000, n0 = 1.90E7 cm^-2,  beta = 1.33E7 cm^2 s^-1
+Slope: -10.83
+Total number of collisions: 34332
+Number of collisions to thermalize: (111.1, 6.0)
+Mean Collision Rate: 115.3
+
+File: swave/cross_section_9.200E-02_ratio_2.000E-02_repeat_2.out
+N0 = 1000, n0 = 1.83E7 cm^-2,  beta = 1.41E7 cm^2 s^-1
+Slope: -7.31
+Total number of collisions: 35922
+Number of collisions to thermalize: (104.0, 22.0)
+Mean Collision Rate: 107.6
+
+File: swave/cross_section_9.200E-02_ratio_2.000E-02_repeat_3.out
+N0 = 1000, n0 = 1.85E7 cm^-2,  beta = 1.30E7 cm^2 s^-1
+Slope: -6.75
+Total number of collisions: 37050
+Number of collisions to thermalize: (110.8, 45.0)
+Mean Collision Rate: 114.8
+
+File: swave/cross_section_9.200E-02_ratio_2.000E-02_repeat_4.out
+N0 = 1000, n0 = 1.90E7 cm^-2,  beta = 1.55E7 cm^2 s^-1
+Slope: -6.18
+Total number of collisions: 33352
+Number of collisions to thermalize: (105.6, 14.3)
+Mean Collision Rate: 109.2
+
+File: swave/cross_section_9.200E-02_ratio_2.000E-02_repeat_5.out
+N0 = 1000, n0 = 1.95E7 cm^-2,  beta = 1.57E7 cm^2 s^-1
+Slope: -6.24
+Total number of collisions: 34242
+Number of collisions to thermalize: (104.5, 18.1)
+Mean Collision Rate: 108.2
+
+File: swave/cross_section_9.200E-02_ratio_2.000E-02_repeat_6.out
+N0 = 1000, n0 = 1.92E7 cm^-2,  beta = 1.25E7 cm^2 s^-1
+Slope: -7.39
+Total number of collisions: 36216
+Number of collisions to thermalize: (90.8, 13.5)
+Mean Collision Rate: 109.9
+
+File: swave/cross_section_9.200E-02_ratio_2.000E-02_repeat_7.out
+N0 = 1000, n0 = 1.90E7 cm^-2,  beta = 1.35E7 cm^2 s^-1
+Slope: -13.27
+Total number of collisions: 35092
+Number of collisions to thermalize: (2.6, 27.2)
+Mean Collision Rate: 111.6
+
+File: swave/cross_section_9.200E-02_ratio_2.000E-02_repeat_8.out
+N0 = 1000, n0 = 1.92E7 cm^-2,  beta = 1.29E7 cm^2 s^-1
+Slope: -7.38
+Total number of collisions: 35420
+Number of collisions to thermalize: (102.9, 16.8)
+Mean Collision Rate: 106.7
+
+File: swave/cross_section_9.200E-02_ratio_2.000E-02_repeat_9.out
+N0 = 1000, n0 = 1.90E7 cm^-2,  beta = 1.63E7 cm^2 s^-1
+Slope: -6.66
+Total number of collisions: 32102
+Number of collisions to thermalize: (102.4, 68.2)
+Mean Collision Rate: 106.0
+
+File: swave/cross_section_9.200E-02_ratio_4.000E-03_repeat_0.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.29E7 cm^2 s^-1
+Slope: -8.01
+Total number of collisions: 80366
+Number of collisions to thermalize: (3.1, 6.1)
+Mean Collision Rate: 118.4
+
+File: swave/cross_section_9.200E-02_ratio_4.000E-03_repeat_1.out
+N0 = 998, n0 = 1.84E7 cm^-2,  beta = 0.26E7 cm^2 s^-1
+Slope: -9.99
+Total number of collisions: 78000
+Number of collisions to thermalize: (3.0, 6.7)
+Mean Collision Rate: 113.1
+
+File: swave/cross_section_9.200E-02_ratio_4.000E-03_repeat_2.out
+N0 = 998, n0 = 1.86E7 cm^-2,  beta = 0.31E7 cm^2 s^-1
+Slope: -6.05
+Total number of collisions: 77518
+Number of collisions to thermalize: (2.4, 14.2)
+Mean Collision Rate: 113.2
+
+File: swave/cross_section_9.200E-02_ratio_4.000E-03_repeat_3.out
+N0 = 1000, n0 = 1.86E7 cm^-2,  beta = 0.28E7 cm^2 s^-1
+Slope: -9.25
+Total number of collisions: 77648
+Number of collisions to thermalize: (2.5, 4.5)
+Mean Collision Rate: 113.2
+
+File: swave/cross_section_9.200E-02_ratio_4.000E-03_repeat_4.out
+N0 = 1000, n0 = 1.84E7 cm^-2,  beta = 0.28E7 cm^2 s^-1
+Slope: -8.02
+Total number of collisions: 80246
+Number of collisions to thermalize: (2.2, 4.8)
+Mean Collision Rate: 117.4
+
+File: swave/cross_section_9.200E-02_ratio_4.000E-03_repeat_5.out
+N0 = 1000, n0 = 1.84E7 cm^-2,  beta = 0.29E7 cm^2 s^-1
+Slope: -6.21
+Total number of collisions: 78114
+Number of collisions to thermalize: (1.9, 8.2)
+Mean Collision Rate: 113.0
+
+File: swave/cross_section_9.200E-02_ratio_4.000E-03_repeat_6.out
+N0 = 1000, n0 = 1.95E7 cm^-2,  beta = 0.32E7 cm^2 s^-1
+Slope: -5.86
+Total number of collisions: 77092
+Number of collisions to thermalize: (110.2, 4.4)
+Mean Collision Rate: 114.3
+
+File: swave/cross_section_9.200E-02_ratio_4.000E-03_repeat_7.out
+N0 = 1000, n0 = 1.82E7 cm^-2,  beta = 0.31E7 cm^2 s^-1
+Slope: -8.13
+Total number of collisions: 78180
+Number of collisions to thermalize: (3.2, 7.6)
+Mean Collision Rate: 113.0
+
+File: swave/cross_section_9.200E-02_ratio_4.000E-03_repeat_8.out
+N0 = 1000, n0 = 1.83E7 cm^-2,  beta = 0.29E7 cm^2 s^-1
+Slope: -12.76
+Total number of collisions: 75176
+Number of collisions to thermalize: (2.4, 3.4)
+Mean Collision Rate: 114.8
+
+File: swave/cross_section_9.200E-02_ratio_4.000E-03_repeat_9.out
+N0 = 1000, n0 = 1.92E7 cm^-2,  beta = 0.29E7 cm^2 s^-1
+Slope: -4.98
+Total number of collisions: 79488
+Number of collisions to thermalize: (112.9, 5.3)
+Mean Collision Rate: 117.1
+
+File: swave/cross_section_9.200E-02_ratio_5.000E-03_repeat_0.out
+N0 = 1000, n0 = 1.90E7 cm^-2,  beta = 0.35E7 cm^2 s^-1
+Slope: -5.55
+Total number of collisions: 73676
+Number of collisions to thermalize: (110.6, 3.8)
+Mean Collision Rate: 114.7
+
+File: swave/cross_section_9.200E-02_ratio_5.000E-03_repeat_1.out
+N0 = 1000, n0 = 1.93E7 cm^-2,  beta = 0.33E7 cm^2 s^-1
+Slope: -9.99
+Total number of collisions: 74722
+Number of collisions to thermalize: (1.9, 3.0)
+Mean Collision Rate: 117.2
+
+File: swave/cross_section_9.200E-02_ratio_5.000E-03_repeat_2.out
+N0 = 998, n0 = 1.87E7 cm^-2,  beta = 0.35E7 cm^2 s^-1
+Slope: -7.52
+Total number of collisions: 71440
+Number of collisions to thermalize: (2.0, 4.2)
+Mean Collision Rate: 112.5
+
+File: swave/cross_section_9.200E-02_ratio_5.000E-03_repeat_3.out
+N0 = 1000, n0 = 1.99E7 cm^-2,  beta = 0.34E7 cm^2 s^-1
+Slope: -6.66
+Total number of collisions: 76114
+Number of collisions to thermalize: (2.4, 30.9)
+Mean Collision Rate: 119.6
+
+File: swave/cross_section_9.200E-02_ratio_5.000E-03_repeat_4.out
+N0 = 1000, n0 = 1.85E7 cm^-2,  beta = 0.31E7 cm^2 s^-1
+Slope: -9.98
+Total number of collisions: 74492
+Number of collisions to thermalize: (2.6, 4.0)
+Mean Collision Rate: 113.5
+
+File: swave/cross_section_9.200E-02_ratio_5.000E-03_repeat_5.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.33E7 cm^2 s^-1
+Slope: -8.71
+Total number of collisions: 74322
+Number of collisions to thermalize: (2.6, 5.1)
+Mean Collision Rate: 114.3
+
+File: swave/cross_section_9.200E-02_ratio_5.000E-03_repeat_6.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.35E7 cm^2 s^-1
+Slope: -11.05
+Total number of collisions: 73792
+Number of collisions to thermalize: (2.2, 3.4)
+Mean Collision Rate: 115.9
+
+File: swave/cross_section_9.200E-02_ratio_5.000E-03_repeat_7.out
+N0 = 1000, n0 = 1.86E7 cm^-2,  beta = 0.39E7 cm^2 s^-1
+Slope: -4.96
+Total number of collisions: 70340
+Number of collisions to thermalize: (1.9, 16.2)
+Mean Collision Rate: 110.2
+
+File: swave/cross_section_9.200E-02_ratio_5.000E-03_repeat_8.out
+N0 = 1000, n0 = 1.80E7 cm^-2,  beta = 0.33E7 cm^2 s^-1
+Slope: -14.19
+Total number of collisions: 71982
+Number of collisions to thermalize: (106.8, 4.8)
+Mean Collision Rate: 110.6
+
+File: swave/cross_section_9.200E-02_ratio_5.000E-03_repeat_9.out
+N0 = 1000, n0 = 1.87E7 cm^-2,  beta = 0.38E7 cm^2 s^-1
+Slope: -7.66
+Total number of collisions: 72700
+Number of collisions to thermalize: (5.0, 17.2)
+Mean Collision Rate: 116.1
+
+File: swave/cross_section_9.200E-02_ratio_6.667E-03_repeat_0.out
+N0 = 1000, n0 = 1.90E7 cm^-2,  beta = 0.47E7 cm^2 s^-1
+Slope: -8.07
+Total number of collisions: 67172
+Number of collisions to thermalize: (114.2, 5.8)
+Mean Collision Rate: 118.4
+
+File: swave/cross_section_9.200E-02_ratio_6.667E-03_repeat_1.out
+N0 = 1000, n0 = 1.79E7 cm^-2,  beta = 0.51E7 cm^2 s^-1
+Slope: -7.38
+Total number of collisions: 62426
+Number of collisions to thermalize: (1.9, 6.1)
+Mean Collision Rate: 111.0
+
+File: swave/cross_section_9.200E-02_ratio_6.667E-03_repeat_2.out
+N0 = 1000, n0 = 1.86E7 cm^-2,  beta = 0.42E7 cm^2 s^-1
+Slope: -6.40
+Total number of collisions: 66778
+Number of collisions to thermalize: (2.4, 6.7)
+Mean Collision Rate: 110.9
+
+File: swave/cross_section_9.200E-02_ratio_6.667E-03_repeat_3.out
+N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.43E7 cm^2 s^-1
+Slope: -8.64
+Total number of collisions: 66956
+Number of collisions to thermalize: (3.0, 24.1)
+Mean Collision Rate: 120.2
+
+File: swave/cross_section_9.200E-02_ratio_6.667E-03_repeat_4.out
+N0 = 1000, n0 = 1.92E7 cm^-2,  beta = 0.39E7 cm^2 s^-1
+Slope: -13.80
+Total number of collisions: 66520
+Number of collisions to thermalize: (3.2, 6.7)
+Mean Collision Rate: 113.5
+
+File: swave/cross_section_9.200E-02_ratio_6.667E-03_repeat_5.out
+N0 = 1000, n0 = 1.82E7 cm^-2,  beta = 0.52E7 cm^2 s^-1
+Slope: -8.74
+Total number of collisions: 60528
+Number of collisions to thermalize: (104.3, 5.3)
+Mean Collision Rate: 107.9
+
+File: swave/cross_section_9.200E-02_ratio_6.667E-03_repeat_6.out
+N0 = 1000, n0 = 1.95E7 cm^-2,  beta = 0.47E7 cm^2 s^-1
+Slope: -5.70
+Total number of collisions: 66462
+Number of collisions to thermalize: (112.2, 5.6)
+Mean Collision Rate: 116.3
+
+File: swave/cross_section_9.200E-02_ratio_6.667E-03_repeat_7.out
+N0 = 1000, n0 = 1.92E7 cm^-2,  beta = 0.50E7 cm^2 s^-1
+Slope: -8.97
+Total number of collisions: 65248
+Number of collisions to thermalize: (2.0, 15.6)
+Mean Collision Rate: 119.2
+
+File: swave/cross_section_9.200E-02_ratio_6.667E-03_repeat_8.out
+N0 = 1000, n0 = 1.89E7 cm^-2,  beta = 0.46E7 cm^2 s^-1
+Slope: -8.64
+Total number of collisions: 65974
+Number of collisions to thermalize: (2.1, 93.8)
+Mean Collision Rate: 115.4
+
+File: swave/cross_section_9.200E-02_ratio_6.667E-03_repeat_9.out
+N0 = 1000, n0 = 1.88E7 cm^-2,  beta = 0.47E7 cm^2 s^-1
+Slope: -8.66
+Total number of collisions: 63870
+Number of collisions to thermalize: (109.4, 6.3)
+Mean Collision Rate: 113.3
 
